@@ -72,8 +72,8 @@ I also work on biomedical image processing, information fusion and machine learn
  J. Klein, C. Lecomte and P. Miché, \textit{Tracking objects in videos with texture features}, in \textbf{IEEE International Conference on Electronics, Circuits and Systems, ICECS 2007}, Marrakech, Morocco, December 11-14, 2007, 
  \href{http://ieeexplore.ieee.org/document/4511049/}{doi:10.1109/ICECS.2007.4511049}.
 
- J. Klein, C. Lecomte and P. Miché, \textit{Fast Color-Texture Discrimination: Application to Car Tracking}, in \textbf{ IEEE Intelligent Transportation Systems Conference, ITSC 2007}, Seattle, WA, USA, September 30- October 3, 2007,
- \href{http://ieeexplore.ieee.org/document/4357765/}{doi:10.1109/ITSC.2007.4357765}
+ J. Klein, C. Lecomte and P. Miché, _Fast Color-Texture Discrimination: Application to Car Tracking_, in IEEE Intelligent Transportation Systems Conference, ITSC 2007, Seattle, WA, USA, September 30- October 3, 2007,
+ [doi:10.1109/ITSC.2007.4357765](\href{)http://ieeexplore.ieee.org/document/4357765/)
 
 
 
