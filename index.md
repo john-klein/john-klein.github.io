@@ -10,7 +10,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # [](#header-1)Research
 
-Here a short description of my research activities (topics and publications)
+Here is a short description of my research activities (topics and publications)
 
 ## [](#header-2)Topics
 
