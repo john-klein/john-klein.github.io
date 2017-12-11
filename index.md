@@ -14,21 +14,21 @@ Here a short description of my research activities (topics and publications)
 
 ## [](#header-2)Topics
 
-My leading research activity is (computatinal) **reasoning under uncertainty** which is a field of data sciences and artificial intelligence. 
+My leading research activity is (computational) **reasoning under uncertainty** which is a field of data sciences and artificial intelligence. 
 
-Uncertainty arise in many circumstances:
-* data is noisy (e.g. photon counting data is Poisson distributed),
-* we need a simpler picture (e.g. a brownian motion describes general statistical properties of the movement of a dust particle),
-* data is missing (e.g. the value of a feature is unknown for some examples of the dataset).
+Uncertainty arises in many circumstances:
+* when data is noisy (e.g. photon counting data is Poisson distributed),
+* when we need a simpler picture (e.g. a Brownian motion describes general statistical properties of the movement of a dust particle),
+* when data is missing (e.g. the value of a feature is sometimes unknown for some examples in a dataset).
 
-**Probabilities** are an appealing mathematical model to grasp uncertainty. However, there several kinds of uncertainty and, in particular, imprecision needs special care to be correctly modeled. When the truth or the falsity of a proposition cannot be determined in light of evidence, one can introduce a third epistemic state: the _don't know_ state. Probabilities can be distributed on each state as usual. By building upon this idea, we see that probability triplets for each proposition must follow some rules. This is one way to derive the framework of the theory of **belief functions** in which I made most of my contributions.
+**Probabilities** are an appealing mathematical model to grasp uncertainty. However, there several kinds of uncertainty and, in particular, imprecision needs special care to be correctly modeled. When the truth or the falsity of a proposition cannot be (fully) determined in light of evidence, one can introduce a third epistemic state: the _don't know_ state. Probabilities can be distributed on each state as usual. By building upon this idea, we see that probability triplets for each proposition must follow some assignment rules. This is one way to derive the framework of the theory of **belief functions** in which I made most of my contributions.
 
 > Related frameworks are:
-> Fiducial inference, Robust Bayesian analysis, Imprecise probabilities, Lower previsions, Second order probabilities, Randon measures,
+> Fiducial inference, Robust Bayesian analysis, Imprecise probabilities, Lower previsions, Second order probabilities, Random measures,
 
+I also work on biomedical images processing, information fusion and machine learning.
 
-
-### [](#header-3)Header 3
+### [](#header-2)Publications
 
 ```js
 // Javascript code with syntax highlighting.
