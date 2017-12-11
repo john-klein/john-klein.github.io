@@ -1,5 +1,5 @@
 title: John Klein
 description: this is my homepage.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
