@@ -62,12 +62,12 @@ I also work on biomedical image processing, information fusion and machine learn
 
  M. Loudahi, J. Klein, J. M. Vannobel, O. Colot, \textit{Fast Computation of $L_p$ Norm-Based Specialization Distances between Bodies of Evidence}, in \textbf{Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014}, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, \href{http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_46}{doi: 10.1007/978-3-319-11191-9\_46}
 
- J. Klein, O. Colot, \textit{A Belief Function Model for Pixel Data}, in \textbf{Belief Functions: Theory and Applications: Second International Conference, BELIEF 2012}, Compiègne, France, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, \href{http://link.springer.com/chapter/10.1007%2F978-3-642-29461-7_22}{doi: 10.1007/978-3-642-29461-7\_22}
+ J. Klein, O. Colot, ***A Belief Function Model for Pixel Data***, in Belief Functions: Theory and Applications: Second International Conference, BELIEF 2012, Compiègne, France, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-642-29461-7\_22](http://link.springer.com/chapter/10.1007%2F978-3-642-29461-7_22)
  
- J. Klein, O. Colot, \textit{Automatic discounting rate computation using a dissent criterion}, in \textbf{Belief Functions: Theory and Applications: First International Conference, BELIEF 2010}, Brest, France, September 26-28, 2010. 
+ J. Klein, O. Colot, ***Automatic discounting rate computation using a dissent criterion***, in Belief Functions: Theory and Applications: First International Conference, BELIEF 2010, Brest, France, September 26-28, 2010. 
 
- J. Klein, C. Lecomte and P. Miché, \textit{Preceding car tracking using belief functions and a particle filter}, in \textbf{IEEE International Conference on Pattern Recognition, ICPR 2008}, Tampa, FL, USA, December 8-11, 2008,
- \href{http://ieeexplore.ieee.org/document/4761008/}{doi:10.1109/ICPR.2008.4761008}
+ J. Klein, C. Lecomte and P. Miché, ***Preceding car tracking using belief functions and a particle filter***, in IEEE International Conference on Pattern Recognition, ICPR 2008, Tampa, FL, USA, December 8-11, 2008,
+ [doi:10.1109/ICPR.2008.4761008](http://ieeexplore.ieee.org/document/4761008/)
 
  J. Klein, C. Lecomte and P. Miché, ***Tracking objects in videos with texture features***, in IEEE International Conference on Electronics, Circuits and Systems, ICECS 2007, Marrakech, Morocco, December 11-14, 2007, 
  [doi:10.1109/ICECS.2007.4511049](http://ieeexplore.ieee.org/document/4511049/)
