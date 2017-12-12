@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# [](#header-1)Research
+# [](#header-1)Contact Information
 
 john DOT klein AT univ-lille.fr
 
-[Link to another page](another-page).
 
-![](./assets/images/me_small.jpeg)
+
+![](./assets/images/image10.png)
 
 # [](#header-1)Research
 
@@ -86,7 +86,9 @@ I also work on image processing, information fusion and machine learning.
 
 
 
-##### [](#header-5)Header 5
+# [](#header-5)Teaching
+
+[Link to another page](another-page).
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
@@ -112,26 +114,12 @@ I also work on image processing, information fusion and machine learning.
   - level 2 item
 - level 1 item
 
-### Small image
+
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 
 
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
