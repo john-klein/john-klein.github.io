@@ -51,14 +51,13 @@ I also work on image processing, information fusion and machine learning.
  M. Loudahi, J. Klein, J. M. Vannobel and O. Colot, \textit{Evidential Matrix Metrics as Distances Between Meta-Data Dependent Bodies of Evidence}, in \textbf{IEEE Transactions on Cybernetics} (\href{http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036}{Impact Factor: 4.94}), vol. 46, no. 1, pp. 109-122, Jan. 2016., \href{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7035103}{doi: 10.1109/TCYB.2015.2395877}
 
  M. Loudahi, J. Klein, J.-M. Vannobel, O. Colot, \textit{New distances between bodies of evidence based on Dempsterian specialization matrices and their consistency with the conjunctive combination rule}, in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 55, issue 5, pp. 1093-1112, July 2014, 
-
  \href{http://www.sciencedirect.com/science/article/pii/S0888613X1400036X}{http://dx.doi.org/10.1016/j.ijar.2014.02.007.}
-%\newpage
- C. Feudjio, J. Klein, A. Tiedeu, O. Colot, \textit{Automatic extraction of pectoral muscle in the MLO view of mammograms}, in \textbf{Physics in Medicine and Biology} (\href{http://iopscience.iop.org/0031-9155}{Impact Factor: 2.81}), vol.58 , no. 23, pp.8493-515, 2013, \href{http://iopscience.iop.org/article/10.1088/0031-9155/58/23/8493/meta;jsessionid=A27324D21E5FAA2B1838D5FB7DCA99BA.c3.iopscience.cld.iop.org}{doi: 10.1088/0031-9155/58/23/8493.}
+
+ C. Feudjio, J. Klein, A. Tiedeu, O. Colot, ***Automatic extraction of pectoral muscle in the MLO view of mammograms***, in Physics in Medicine and Biology, vol.58 , no. 23, pp.8493-515, 2013, [doi: 10.1088/0031-9155/58/23/8493](http://iopscience.iop.org/article/10.1088/0031-9155/58/23/8493/meta;jsessionid=A27324D21E5FAA2B1838D5FB7DCA99BA.c3.iopscience.cld.iop.org).
  
- J. Klein and O. Colot, \textit{Singular sources mining using evidential conflict analysis} in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 52, pp. 1433–1451, Dec. 2011, \href{http://www.sciencedirect.com/science/article/pii/S0888613X11001204}{http://dx.doi.org/10.1016/j.ijar.2011.08.005}
+ J. Klein and O. Colot, ***Singular sources mining using evidential conflict analysis*** in International Journal of Approximate Reasoning, vol. 52, pp. 1433–1451, Dec. 2011, [http://dx.doi.org/10.1016/j.ijar.2011.08.005](http://www.sciencedirect.com/science/article/pii/S0888613X11001204)
  
- J. Klein, C. Lecomte and P. Miché, ***Hierarchical and conditional combination of belief functions induced by visual tracking***, in {International Journal of Approximate Reasoning, vol. 51, pp. 410-428, March 2010, [http://dx.doi.org/10.1016/j.ijar.2009.12.001](http://www.sciencedirect.com/science/article/pii/S0888613X09001819)
+ J. Klein, C. Lecomte and P. Miché, ***Hierarchical and conditional combination of belief functions induced by visual tracking***, in International Journal of Approximate Reasoning, vol. 51, pp. 410-428, March 2010, [http://dx.doi.org/10.1016/j.ijar.2009.12.001](http://www.sciencedirect.com/science/article/pii/S0888613X09001819)
 
 
 
