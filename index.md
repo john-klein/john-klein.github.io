@@ -8,7 +8,7 @@ john DOT klein AT univ-lille.fr
 
 
 
-![](./assets/images/image10.png){ width=50% }
+![](./assets/images/image10.png =200x200)
 
 # [](#header-1)Research
 
