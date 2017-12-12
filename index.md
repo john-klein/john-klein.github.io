@@ -8,7 +8,7 @@ john DOT klein AT univ-lille.fr
 
 [Link to another page](another-page).
 
-![](./assets/images/me.jpeg)
+![](./assets/images/me_small.jpeg)
 
 # [](#header-1)Research
 
