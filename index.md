@@ -41,7 +41,7 @@ I also work on image processing, information fusion and machine learning.
 
 ### Journal papers
 
- J. Klein, S. Destercke, O. Colot, ***Idempotent conjunctive and disjunctive combination of belief functions by distance minimization***, in International Journal of Approximate Reasoning, vol. 92, pp. 32-48, 2018 [https://doi.org/10.1016/j.ijar.2017.10.004](https://doi.org/10.1016/j.ijar.2017.10.004) - 
+ J. Klein, S. Destercke, O. Colot, ***Idempotent conjunctive and disjunctive combination of belief functions by distance minimization***, in International Journal of Approximate Reasoning, vol. 92, pp. 32-48, 2018 [https://doi.org/10.1016/j.ijar.2017.10.004](https://doi.org/10.1016/j.ijar.2017.10.004) - [Code](https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization)
 
  J. Klein, S. Destercke, O. Colot, ***Interpreting evidential distances by connecting them to partial orders: Application to belief function approximation***, in International Journal of Approximate Reasoning, vol. 71, pp. 15-33, April 2016, [http://dx.doi.org/ 10.1016/j.ijar.2016.01.001.](http://www.sciencedirect.com/science/article/pii/S0888613X16000025)
  
@@ -89,7 +89,7 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 
 # [](#header-5)Teaching
 
-[Link to another page](another-page).
+[detailed teaching activities](another-page).
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
@@ -99,33 +99,18 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 * * *
 
 
-### And a nested list:
+# Responsibility
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+I have been leading the automation teaching team since 2012. 
+This has 12 tenured members, 4 non teaching staff members and from 2 to 6 temporary members. We are responsible for teaching units dealing with computer engineering, automatic control and signal processing in the faculty of sciences of technologies.
 
 
 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[comment]: <> (![](https://assets-cdn.github.com/images/icons/emoji/octocat.png))
 
-```
-The final element.
-```
+
+
+Copyright © John Klein 2017
+
+
