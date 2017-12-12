@@ -2,11 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# [](#header-1)Research
+
+john DOT klein AT univ-lille.fr
 
 [Link to another page](another-page).
 
-
+![](./assets/images/me.jpeg)
 
 # [](#header-1)Research
 
@@ -26,11 +28,12 @@ My leading research activity is (computational) **reasoning under uncertainty** 
 > Related frameworks are:
 > Fiducial inference, Robust Bayesian analysis, Imprecise probabilities, Lower previsions, Second order probabilities, Random measures,
 
-I also work on biomedical image processing, information fusion and machine learning.
+I also work on image processing, information fusion and machine learning.
 
 ## [](#header-2)Publications
 
 **Journal papers**
+
  J. Klein, S. Destercke, O. Colot, \textit{Idempotent conjunctive and disjunctive combination of belief functions by distance minimization}, in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 92, pp. 32-48, 2018 \href{https://doi.org/10.1016/j.ijar.2017.10.004}{https://doi.org/10.1016/j.ijar.2017.10.004}
 
  J. Klein, S. Destercke, O. Colot, \textit{Interpreting evidential distances by connecting them to partial orders: Application to belief function approximation}, in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 71, pp. 15-33, April 2016, \href{http://www.sciencedirect.com/science/article/pii/S0888613X16000025}{http://dx.doi.org/ 10.1016/j.ijar.2016.01.001.}
@@ -117,9 +120,8 @@ I also work on biomedical image processing, information fusion and machine learn
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
-### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+
 
 
 ### Definition lists can be used with HTML syntax.
