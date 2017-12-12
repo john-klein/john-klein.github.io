@@ -39,14 +39,14 @@ I also work on image processing, information fusion and machine learning.
 
 ## [](#header-2)Publications
 
-**Journal papers**
+### Journal papers
 
- J. Klein, S. Destercke, O. Colot, \textit{Idempotent conjunctive and disjunctive combination of belief functions by distance minimization}, in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 92, pp. 32-48, 2018 \href{https://doi.org/10.1016/j.ijar.2017.10.004}{https://doi.org/10.1016/j.ijar.2017.10.004}
+ J. Klein, S. Destercke, O. Colot, ***Idempotent conjunctive and disjunctive combination of belief functions by distance minimization***, in International Journal of Approximate Reasoning, vol. 92, pp. 32-48, 2018 [https://doi.org/10.1016/j.ijar.2017.10.004](https://doi.org/10.1016/j.ijar.2017.10.004) - 
 
- J. Klein, S. Destercke, O. Colot, \textit{Interpreting evidential distances by connecting them to partial orders: Application to belief function approximation}, in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 71, pp. 15-33, April 2016, \href{http://www.sciencedirect.com/science/article/pii/S0888613X16000025}{http://dx.doi.org/ 10.1016/j.ijar.2016.01.001.}
+ J. Klein, S. Destercke, O. Colot, ***Interpreting evidential distances by connecting them to partial orders: Application to belief function approximation***, in International Journal of Approximate Reasoning, vol. 71, pp. 15-33, April 2016, [http://dx.doi.org/ 10.1016/j.ijar.2016.01.001.](http://www.sciencedirect.com/science/article/pii/S0888613X16000025)
  
- S. Li, H. Wang, Y. Tian, A. Aitouche and J. Klein. \textit{Direct power control of DFIG wind turbine systems based on an intelligent proportional-integral sliding mode control}, in \textbf{ISA Transactions} (\href{https://www.journals.elsevier.com/isa-transactions}{Impact Factor: 2.60}), vol. 64, pp. 431-439, September 2016, 
- \href{http://www.sciencedirect.com/science/article/pii/S0019057816301112}{http://dx.doi.org/10.1016/j.isatra.2016.06.003.}
+ S. Li, H. Wang, Y. Tian, A. Aitouche and J. Klein. ***Direct power control of DFIG wind turbine systems based on an intelligent proportional-integral sliding mode control***, in ISA Transactions, vol. 64, pp. 431-439, September 2016, 
+ [http://dx.doi.org/10.1016/j.isatra.2016.06.003.](http://www.sciencedirect.com/science/article/pii/S0019057816301112)
  
  M. Loudahi, J. Klein, J. M. Vannobel and O. Colot, ***Evidential Matrix Metrics as Distances Between Meta-Data Dependent Bodies of Evidence***, in IEEE Transactions on Cybernetics, vol. 46, no. 1, pp. 109-122, Jan. 2016., [doi: 10.1109/TCYB.2015.2395877](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7035103)
 
@@ -61,7 +61,7 @@ I also work on image processing, information fusion and machine learning.
 
 
 
-**Conference papers**
+### Conference papers
 
  J. Klein, S. Destercke, O. Colot. ***Idempotent Conjunctive Combination of Belief Functions by Distance Minimization***, in
 Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016, Pragua, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
