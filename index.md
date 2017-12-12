@@ -8,7 +8,8 @@ john DOT klein AT univ-lille.fr
 
 
 
-![](./assets/images/image10.png =200x200)
+[comment]: <> (![](./assets/images/image10.png =200x200))
+<img src="./assets/images/image10.png" width="200" height="200" />
 
 # [](#header-1)Research
 
