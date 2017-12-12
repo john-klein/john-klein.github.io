@@ -58,7 +58,7 @@ I also work on image processing, information fusion and machine learning.
  
  J. Klein and O. Colot, \textit{Singular sources mining using evidential conflict analysis} in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 52, pp. 1433–1451, Dec. 2011, \href{http://www.sciencedirect.com/science/article/pii/S0888613X11001204}{http://dx.doi.org/10.1016/j.ijar.2011.08.005}
  
- J. Klein, C. Lecomte and P. Miché, \textit{Hierarchical and conditional combination of belief functions induced by visual tracking}, in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 51, pp. 410-428, March 2010, \href{http://www.sciencedirect.com/science/article/pii/S0888613X09001819}{http://dx.doi.org/10.1016/j.ijar.2009.12.001}
+ J. Klein, C. Lecomte and P. Miché, ***Hierarchical and conditional combination of belief functions induced by visual tracking***, in {International Journal of Approximate Reasoning, vol. 51, pp. 410-428, March 2010, [http://dx.doi.org/10.1016/j.ijar.2009.12.001](http://www.sciencedirect.com/science/article/pii/S0888613X09001819)
 
 
 
@@ -66,9 +66,10 @@ I also work on image processing, information fusion and machine learning.
 
  J. Klein, S. Destercke, O. Colot. ***Idempotent Conjunctive Combination of Belief Functions by Distance Minimization***, in
 Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016, Pragua, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
-[doi: 10.1007/978-3-319-45559-4\_16](http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16) ***Best paper award*** 
+[doi: 10.1007/978-3-319-45559-4\_16](http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16) ***Best paper award*** - [Code](https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization)
 
- J. Klein, M. Loudahi, J. M. Vannobel, O. Colot, ***α-Junctions of Categorical Mass Functions***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-319-11191-9\_1](http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_1)
+ J. Klein, M. Loudahi, J. M. Vannobel, O. Colot, ***α-Junctions of Categorical Mass Functions***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, 
+[doi: 10.1007/978-3-319-11191-9\_1](http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_1)
 
  M. Loudahi, J. Klein, J. M. Vannobel, O. Colot, ***Fast Computation of $L_p$ Norm-Based Specialization Distances between Bodies of Evidence***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-319-11191-9\_46](http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_46)
 
