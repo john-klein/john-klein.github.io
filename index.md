@@ -30,7 +30,7 @@ State      | known to be true | known to be false | don't know |
 -----------|:-----------------|:------------------|:-----------|
 Probability|_u_               | _v_               | _w_        |
 
-Probabilities can be distributed on each state as usual: _u+v+w=1_. By building upon this idea, we see that probability triplets for each proposition must follow some assignment rules. This is one way to derive the framework of the theory of **belief functions** in which I made most of my contributions.
+Probabilities can be distributed on each state as usual: _u + v + w = 1_. By building upon this idea, we see that probability triplets for each proposition must follow some assignment rules. This is one way to derive the framework of the theory of **belief functions** in which I made most of my contributions.
 
 > Related frameworks are:
 > Fiducial inference, Robust Bayesian analysis, Imprecise probabilities, Lower previsions, Second order probabilities, Random measures,
@@ -64,13 +64,13 @@ I also work on image processing, information fusion and machine learning.
 
 **Conference papers**
 
- J. Klein, S. Destercke, O. Colot. \textit{Idempotent Conjunctive Combination of Belief Functions by Distance Minimization}, in
-\textbf{Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016}, Pragua, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
-\href{http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16}{doi: 10.1007/978-3-319-45559-4\_16} \textcolor{red}{\textbf{Best paper award}} 
+ J. Klein, S. Destercke, O. Colot. ***Idempotent Conjunctive Combination of Belief Functions by Distance Minimization***, in
+Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016, Pragua, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
+[doi: 10.1007/978-3-319-45559-4\_16](http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16) ***Best paper award*** 
 
- J. Klein, M. Loudahi, J. M. Vannobel, O. Colot, $\alpha$\textit{-Junctions of Categorical Mass Functions}, in \textbf{Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014}, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, \href{http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_1}{doi: 10.1007/978-3-319-11191-9\_1}
+ J. Klein, M. Loudahi, J. M. Vannobel, O. Colot, ***α-Junctions of Categorical Mass Functions***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-319-11191-9\_1](http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_1)
 
- M. Loudahi, J. Klein, J. M. Vannobel, O. Colot, \textit{Fast Computation of $L_p$ Norm-Based Specialization Distances between Bodies of Evidence}, in \textbf{Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014}, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, \href{http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_46}{doi: 10.1007/978-3-319-11191-9\_46}
+ M. Loudahi, J. Klein, J. M. Vannobel, O. Colot, ***Fast Computation of $L_p$ Norm-Based Specialization Distances between Bodies of Evidence***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-319-11191-9\_46](http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_46)
 
  J. Klein, O. Colot, ***A Belief Function Model for Pixel Data***, in Belief Functions: Theory and Applications: Second International Conference, BELIEF 2012, Compiègne, France, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-642-29461-7\_22](http://link.springer.com/chapter/10.1007%2F978-3-642-29461-7_22)
  
