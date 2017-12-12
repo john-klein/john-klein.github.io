@@ -48,10 +48,10 @@ I also work on image processing, information fusion and machine learning.
  S. Li, H. Wang, Y. Tian, A. Aitouche and J. Klein. \textit{Direct power control of DFIG wind turbine systems based on an intelligent proportional-integral sliding mode control}, in \textbf{ISA Transactions} (\href{https://www.journals.elsevier.com/isa-transactions}{Impact Factor: 2.60}), vol. 64, pp. 431-439, September 2016, 
  \href{http://www.sciencedirect.com/science/article/pii/S0019057816301112}{http://dx.doi.org/10.1016/j.isatra.2016.06.003.}
  
- M. Loudahi, J. Klein, J. M. Vannobel and O. Colot, \textit{Evidential Matrix Metrics as Distances Between Meta-Data Dependent Bodies of Evidence}, in \textbf{IEEE Transactions on Cybernetics} (\href{http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036}{Impact Factor: 4.94}), vol. 46, no. 1, pp. 109-122, Jan. 2016., \href{http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7035103}{doi: 10.1109/TCYB.2015.2395877}
+ M. Loudahi, J. Klein, J. M. Vannobel and O. Colot, ***Evidential Matrix Metrics as Distances Between Meta-Data Dependent Bodies of Evidence***, in IEEE Transactions on Cybernetics, vol. 46, no. 1, pp. 109-122, Jan. 2016., [doi: 10.1109/TCYB.2015.2395877](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7035103)
 
- M. Loudahi, J. Klein, J.-M. Vannobel, O. Colot, \textit{New distances between bodies of evidence based on Dempsterian specialization matrices and their consistency with the conjunctive combination rule}, in \textbf{International Journal of Approximate Reasoning} (\href{http://www.journals.elsevier.com/international-journal-of-approximate-reasoning}{Impact Factor: 2.69}), vol. 55, issue 5, pp. 1093-1112, July 2014, 
- \href{http://www.sciencedirect.com/science/article/pii/S0888613X1400036X}{http://dx.doi.org/10.1016/j.ijar.2014.02.007.}
+ M. Loudahi, J. Klein, J.-M. Vannobel, O. Colot, ***New distances between bodies of evidence based on Dempsterian specialization matrices and their consistency with the conjunctive combination rule***, in International Journal of Approximate Reasoning, vol. 55, issue 5, pp. 1093-1112, July 2014, 
+ [http://dx.doi.org/10.1016/j.ijar.2014.02.007.](http://www.sciencedirect.com/science/article/pii/S0888613X1400036X)
 
  C. Feudjio, J. Klein, A. Tiedeu, O. Colot, ***Automatic extraction of pectoral muscle in the MLO view of mammograms***, in Physics in Medicine and Biology, vol.58 , no. 23, pp.8493-515, 2013, [doi: 10.1088/0031-9155/58/23/8493](http://iopscience.iop.org/article/10.1088/0031-9155/58/23/8493/meta;jsessionid=A27324D21E5FAA2B1838D5FB7DCA99BA.c3.iopscience.cld.iop.org).
  
