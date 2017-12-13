@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)Contact Information
 
-john DOT klein AT univ-lille.fr
+
 
 Bureau 205, P2 Building, avenue Carl Gauss
 59655 Villeneuve d'Acsq, France.
@@ -41,18 +41,21 @@ body {
 </style>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
+  <div class="column" style="background-color:white;">
+    <h2><img src="./assets/images/image10.png" width="200" height="200" /></h2>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h3>Email</h3>
+    <p>john DOT klein AT univ-lille.fr</p>
+    <h3>Address</h3>
+    <p>Bureau 205, P2 Building, avenue Carl Gauss
+59655 Villeneuve d'Acsq, France.</p>
   </div>
 </div>
 
 [comment]: <> (![](./assets/images/image10.png =200x200))
-<img src="./assets/images/image10.png" width="200" height="200" />
+
 
 * * *
 
@@ -157,6 +160,7 @@ I have been leading the automation teaching team since 2012.
 This team has 12 tenured members, 4 non teaching staff members and from 2 to 6 temporary members. We are responsible for teaching units dealing with computer engineering, automatic control and signal processing in the faculty of sciences of technologies. We teach every year to around 500 students.
 
 
+* * *
 
 
 [comment]: <> (![](https://assets-cdn.github.com/images/icons/emoji/octocat.png))
