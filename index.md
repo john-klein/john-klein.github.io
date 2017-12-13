@@ -41,11 +41,15 @@ body {
 <div class="row">
   <div class="column" style="background-color:white;">
     <img src="./assets/images/image10.png" width="200" height="200" />
+    <img src="./assets/images/UL.png" width="200" />
+    <h3>Position</h3>
+    <p> Associate Professor </p>
   </div>
   <div class="column" style="background-color:#bbb;">
     <h3>Email</h3>
     <p>john DOT klein AT univ-lille.fr</p>
     <h3>Address</h3>
+    <p> Université de Lille </p>p>
     <p>Bureau 205, P2 Building, avenue Carl Gauss
 59655 Villeneuve d'Acsq, France.</p>
   </div>
