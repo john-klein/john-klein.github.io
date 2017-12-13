@@ -8,6 +8,37 @@ john DOT klein AT univ-lille.fr
 
 Bureau 205, P2 Building, avenue Carl Gauss
 59655 Villeneuve d'Acsq, France.
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+</style>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
