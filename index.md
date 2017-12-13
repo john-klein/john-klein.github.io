@@ -153,7 +153,7 @@ Here is the list of my current activities
 *  Machine Learning > [unit details (in French)](another-page).
 *  Real Time Operating Systems > [unit details (in French)](str). 
 *  Data Fusion > [unit details (in French)](datfus).
-*  Signal Processing
+*  Signal Processing > [unit details (in French)](sis).
 *  Mobile Robotics
 *  UML
 *  Software Engineering
