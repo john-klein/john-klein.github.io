@@ -130,6 +130,13 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
  J. Klein, C. Lecomte and P. Miché, ***Fast Color-Texture Discrimination: Application to Car Tracking***, in IEEE Intelligent Transportation Systems Conference, ITSC 2007, Seattle, WA, USA, September 30- October 3, 2007,
  [doi:10.1109/ITSC.2007.4357765](http://ieeexplore.ieee.org/document/4357765/)
 
+ ### Thesis
+
+J. Klein, *** Algebraic and metric structures for belief functions***, HDR thesis, defended on December the 7th, 2017. Université Lille1 Sciences et Technologies. 
+
+J. Klein, *** Suivi robuste d'objets dans les séquences d'images par fusion de sources, application au suivi de véhicules dans des scènes routières ***, PhD thesis (in French), defended on December the 4th, 2008. Université de Rouen. 
+
+
 * * *
 
 # [](#header-5)Teaching
