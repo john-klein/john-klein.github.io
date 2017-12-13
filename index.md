@@ -155,7 +155,7 @@ Here is the list of my current activities
 *  Data Fusion > [unit details (in French)](datfus).
 *  Signal Processing > [unit details (in French)](sis).
 *  Mobile Robotics > [unit details (in French)](rob).
-*  UML
+*  UML > [unit details (in French)](uml).
 *  Software Engineering
 
 In the past, I also taught linear control, digital electronics as well as C, C++ and Java programming. 
