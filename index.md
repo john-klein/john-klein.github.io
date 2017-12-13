@@ -151,7 +151,7 @@ I am passionate with teaching and deeply involved in each unit I participate in.
 Here is the list of my current activities
 
 *  Machine Learning > [unit details (in French)](another-page).
-*  Real Time Operating Systems. 
+*  Real Time Operating Systems > [unit details (in French)](str). 
 *  Data Fusion.
 *  Signal Processing
 *  Mobile Robotics
