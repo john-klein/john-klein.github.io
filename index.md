@@ -119,7 +119,7 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
  J. Klein, M. Loudahi, J. M. Vannobel, O. Colot, ***α-Junctions of Categorical Mass Functions***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, 
 [doi: 10.1007/978-3-319-11191-9\_1](http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_1)
 
- M. Loudahi, J. Klein, J. M. Vannobel, O. Colot, ***Fast Computation of $L_p$ Norm-Based Specialization Distances between Bodies of Evidence***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-319-11191-9\_46](http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_46)
+ M. Loudahi, J. Klein, J. M. Vannobel, O. Colot, ***Fast Computation of _Lp_ Norm-Based Specialization Distances between Bodies of Evidence***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-319-11191-9\_46](http://link.springer.com/chapter/10.1007%2F978-3-319-11191-9_46)
 
  J. Klein, O. Colot, ***A Belief Function Model for Pixel Data***, in Belief Functions: Theory and Applications: Second International Conference, BELIEF 2012, Compiègne, France, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, [doi: 10.1007/978-3-642-29461-7\_22](http://link.springer.com/chapter/10.1007%2F978-3-642-29461-7_22)
  
