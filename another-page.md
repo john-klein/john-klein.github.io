@@ -18,7 +18,7 @@ Dans cette UE, nous abordons l'apprentissage supervisé (k-ppv, régression logi
 
 ## Chapitres du cours
 
-1. Généralités et Contexte [PDF](./assets/files/a2di.ML1.pdf)
+1. Généralités et Contexte [PDF](./assets/files/a2di/ML1.pdf)
 2. Proba./Stat.
 3. Théorie de l'Apprentissage (une introduction)
 4. Théorie de la Décision

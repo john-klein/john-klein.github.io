@@ -133,6 +133,7 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 ### [](#header-3)Thesis
 
  J. Klein, ***Algebraic and metric structures for belief functions***, HDR thesis, defended on December the 7th, 2017. Université Lille1 Sciences et Technologies. 
+ [Slides](./assets/files/slides_HDR_v3_handout.pdf)
 
  J. Klein, ***Suivi robuste d'objets dans les séquences d'images par fusion de sources, application au suivi de véhicules dans des scènes routières***, PhD thesis (in French), defended on December the 4th, 2008. Université de Rouen. 
 
@@ -146,7 +147,7 @@ I am passionate with teaching and deeply involved in each unit I participate in.
 Here is the list of my current activities
 
 *  Machine Learning [unit details (in French)](another-page).
-*  Real Time Operating Systems.
+*  Real Time Operating Systems. 
 *  Data Fusion.
 *  Signal Processing
 *  Mobile Robotics
