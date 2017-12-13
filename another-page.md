@@ -2,10 +2,6 @@
 layout: default
 ---
 
-## Details on Machine Learning unit
-
-_yay_
-
 ## Description détaillée du module A2DI (M2 Informatique de l'UdL, spécialité MOCAD)
 
 
@@ -19,7 +15,13 @@ Dans cette UE, nous abordons l'apprentissage supervisé (k-ppv, régression logi
 ## Chapitres du cours
 
 1. Généralités et Contexte [PDF](./assets/files/a2di/ML1.pdf)
-2. Proba./Stat.
-3. Théorie de l'Apprentissage (une introduction)
-4. Théorie de la Décision
-5. Apprentissage Statistique
+2. Proba./Stat. [PDF](./assets/files/a2di/ML2.pdf)
+3. Théorie de l'Apprentissage (une introduction) [PDF](./assets/files/a2di/ML3.pdf)
+4. Théorie de la Décision [PDF](./assets/files/a2di/ML4.pdf)
+5. Apprentissage Statistique [PDF](./assets/files/a2di/ML5.pdf)
+6. Régression Logistique [PDF](./assets/files/a2di/ML6.pdf)
+7. Réseaux de Neurones [PDF](./assets/files/a2di/ML7.pdf)
+8. Prétraitements [PDF](./assets/files/a2di/ML8.pdf)
+9. Apprentissage par Renforcement : Modélisation [PDF](./assets/files/a2di/ML9.pdf)
+10. Apprentissage de politique [PDF](./assets/files/a2di/ML10.pdf)
+11. Apprentissage de politique par épisodes [PDF](./assets/files/a2di/ML11.pdf)
