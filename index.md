@@ -6,8 +6,6 @@ layout: default
 
 
 
-Bureau 205, P2 Building, avenue Carl Gauss
-59655 Villeneuve d'Acsq, France.
 <style>
 * {
     box-sizing: border-box;
@@ -42,8 +40,7 @@ body {
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2><img src="./assets/images/image10.png" width="200" height="200" /></h2>
-    <p>Some text..</p>
+    <img src="./assets/images/image10.png" width="200" height="200" />
   </div>
   <div class="column" style="background-color:#bbb;">
     <h3>Email</h3>
