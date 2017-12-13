@@ -5,11 +5,14 @@ layout: default
 # [](#header-1)Contact Information
 
 john DOT klein AT univ-lille.fr
-
+Bureau 205, P2 Building, avenue Carl Gauss
+59655 Villeneuve d'Acsq, France.
 
 
 [comment]: <> (![](./assets/images/image10.png =200x200))
 <img src="./assets/images/image10.png" width="200" height="200" />
+
+* * *
 
 # [](#header-1)Research
 
@@ -85,16 +88,23 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
  J. Klein, C. Lecomte and P. Miché, ***Fast Color-Texture Discrimination: Application to Car Tracking***, in IEEE Intelligent Transportation Systems Conference, ITSC 2007, Seattle, WA, USA, September 30- October 3, 2007,
  [doi:10.1109/ITSC.2007.4357765](http://ieeexplore.ieee.org/document/4357765/)
 
-
+* * *
 
 # [](#header-5)Teaching
 
-[detailed teaching activities](another-page).
+I am passionate with teaching and deeply involved in each unit I participate in. I systematically renew teaching contents (both lectures and practicals) when I take over a unit. I also update these contents every year based on students' feedback and colleagues' suggestions.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Here is the list of my current activities
 
+*  Machine Learning [unit details (in French)](another-page).
+*  Real Time Operating Systems.
+*  Data Fusion.
+*  Signal Processing
+*  Mobile Robotics
+*  UML
+*  Software Engineering
+
+In the past, I also taught linear control, digital electronics as well as C, C++ and Java programming. 
 
 * * *
 
@@ -102,7 +112,7 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 # Responsibility
 
 I have been leading the automation teaching team since 2012. 
-This has 12 tenured members, 4 non teaching staff members and from 2 to 6 temporary members. We are responsible for teaching units dealing with computer engineering, automatic control and signal processing in the faculty of sciences of technologies.
+This team has 12 tenured members, 4 non teaching staff members and from 2 to 6 temporary members. We are responsible for teaching units dealing with computer engineering, automatic control and signal processing in the faculty of sciences of technologies. We teach every year to around 500 students.
 
 
 
