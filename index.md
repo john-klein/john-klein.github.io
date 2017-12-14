@@ -64,7 +64,7 @@ body {
 
 Since September 2009, I am a (tenured) associate professor at the University of Lille (formerly University of Lille1 Sciences and Technologies). I belong to the faculty of sciences and technologies which is located in the "Cité Scientifique" campus of Villeneuve d'Ascq. I am a member of the department of electrical engineering and automation department but I also teach in the department of computer sciences. I am also affiliated to CRIStAL, the research center in computer sciences, automatic control and signal processing of the university.
 
-I obtained the H.D.R. in mathematical sciences from the University of Lille1 Sciences and Technologies and a Ph.D. in informations sciences from the University of Rouen. Prior to that, I was an intern in Beijing University and I obtained a Master degree from the University of Bordeaux1 and ENSEIRB.
+I obtained the H.D.R. in mathematical sciences from the University of Lille1 Sciences and Technologies in 2017 and a Ph.D. in informations sciences from the University of Rouen in 2008. Prior to that, I was an intern in Beijing University and I obtained a Master degree from the University of Bordeaux1 and ENSEIRB.
 
 * * *
 
