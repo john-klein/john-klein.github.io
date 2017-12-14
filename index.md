@@ -58,6 +58,13 @@ body {
 
 [comment]: <> (![](./assets/images/image10.png =200x200))
 
+* * *
+
+# [](#header-1)Short Bio
+
+Since September 2009, I am a (tenured) associate professor at the University of Lille (formerly University of Lille1 Sciences and Technologies). I belong to the faculty of sciences and technologies which is located in the "Cité Scientifique" campus of Villeneuve d'Ascq. I am a member of the department of electrical engineering and automation department but I also teach in the department of computer sciences. I am also affiliated to CRIStAL, the research center in computer sciences, automatic control and signal processing of the university.
+
+I obtained the H.D.R. in mathematical sciences from the University of Lille1 Sciences and Technologies and a Ph.D. in informations sciences from the University of Rouen. Prior to that, I was an intern in Beijing University and I obtained a Master degree from the University of Bordeaux1 and ENSEIRB.
 
 * * *
 
@@ -153,11 +160,10 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 
 ### [](#header-3)Thesis
 
- J. Klein, ***Algebraic and metric structures for belief functions***, HDR thesis, defended on December the 7th, 2017. Université Lille1 Sciences et Technologies. 
-  - 
- <a href="https://john-klein.github.io/assets/files/slides_HDR_v3_handout.pdf" style="color: rgb(22,184,78)">PDF</a>
+ J. Klein, ***Algebraic and metric structures for belief functions***, HDR thesis, defended on December the 7th, 2017. Université Lille1 Sciences et Technologies. - 
+ <a href="https://john-klein.github.io/assets/files/slides_HDR_v3_handout.pdf" style="color: rgb(22,184,78)">SLIDES</a>
 
- J. Klein, ***Suivi robuste d'objets dans les séquences d'images par fusion de sources, application au suivi de véhicules dans des scènes routières***, PhD thesis (in French), defended on December the 4th, 2008. Université de Rouen. 
+ J. Klein, ***Suivi robuste d'objets dans les séquences d'images par fusion de sources, application au suivi de véhicules dans des scènes routières***, PhD thesis (in French), defended on December the 4th, 2008. Université de Rouen. - 
 <a href="https://john-klein.github.io/assets/files/TheseFinale_copie1.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 
