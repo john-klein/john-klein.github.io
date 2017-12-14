@@ -115,7 +115,7 @@ I also work on image processing, information fusion and machine learning.
  J. Klein, S. Destercke, O. Colot. ***Idempotent Conjunctive Combination of Belief Functions by Distance Minimization***, in
 Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016, Pragua, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
 [doi: 10.1007/978-3-319-45559-4\_16](http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16) ***Best paper award*** - 
-<a href="file:///./assets/conf_papers/conf8.pdf" style="color: rgb(22,184,78)">PDF</a>  -
+<a href="https://john-klein.github.io/assets/conf_papers/conf8.pdf" style="color: rgb(22,184,78)">PDF</a>  -
 <a href="https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization" style="color: rgb(241,105,19)">CODE</a> 
 
  J. Klein, M. Loudahi, J. M. Vannobel, O. Colot, ***α-Junctions of Categorical Mass Functions***, in Belief Functions: Theory and Applications: Third International Conference, BELIEF 2014, Oxford, UK, September 26-28, 2014.  Lecture Notes in Artificial Intelligence, Springer, 
