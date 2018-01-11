@@ -161,7 +161,8 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 ### [](#header-3)Thesis
 
  J. Klein, ***Algebraic and metric structures for belief functions***, HDR thesis, defended on December the 7th, 2017. Université Lille1 Sciences et Technologies. - 
- <a href="https://john-klein.github.io/assets/files/slides_HDR_v3_handout.pdf" style="color: rgb(22,184,78)">SLIDES</a>
+ <a href="https://john-klein.github.io/assets/files/slides_HDR_v3_handout.pdf" style="color: rgb(22,184,78)">SLIDES</a> - 
+<a href="https://john-klein.github.io/assets/files/manuscript.pdf" style="color: rgb(22,184,78)">PDF</a>
 
  J. Klein, ***Suivi robuste d'objets dans les séquences d'images par fusion de sources, application au suivi de véhicules dans des scènes routières***, PhD thesis (in French), defended on December the 4th, 2008. Université de Rouen. - 
 <a href="https://john-klein.github.io/assets/files/TheseFinale_copie1.pdf" style="color: rgb(22,184,78)">PDF</a>
