@@ -167,7 +167,9 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
  J. Klein, ***Suivi robuste d'objets dans les séquences d'images par fusion de sources, application au suivi de véhicules dans des scènes routières***, PhD thesis (in French), defended on December the 4th, 2008. Université de Rouen. - 
 <a href="https://john-klein.github.io/assets/files/TheseFinale_copie1.pdf" style="color: rgb(22,184,78)">PDF</a>
 
-
+### [](#header-3)Technical Reports
+ J. Klein, ***Machine learning perspectives for smart buildings: an overview***, technical report for the INCASE project, october 2017, Université de Lille1 Sciences et Technologie. - 
+<a href="https://john-klein.github.io/assets/files/smart_buildings.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 * * *
 
