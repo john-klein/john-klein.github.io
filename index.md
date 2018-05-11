@@ -168,7 +168,7 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 <a href="https://john-klein.github.io/assets/files/TheseFinale_copie1.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 ### [](#header-3)Technical Reports
- J. Klein, ***Machine learning perspectives for smart buildings: an overview***, technical report for the INCASE project, october 2017, Université de Lille1 Sciences et Technologie. - 
+ J. Klein, ***Machine learning perspectives for smart buildings: an overview***, technical report for the INCASE project, october 2017, Université de Lille1 Sciences et Technologies. - 
 <a href="https://john-klein.github.io/assets/files/smart_buildings.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 * * *
