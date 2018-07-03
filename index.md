@@ -72,7 +72,7 @@ I obtained the H.D.R. in mathematical sciences from the University of Lille1 Sci
 
 ## Open funded Ph.D. position
 
-We are currently seeking a Ph.D. candidate for a Ph.D. position at the Centre Oscar Lambret and Université de Lille - CRIStAL. The Ph.D. is funded for 3 years as part of the <a href="https://www.interreg2seas.eu/fr/cobra" style="color: rgb(22,184,78)">COBRA european project</a>. The CoBra project is interested in technological innovation for diagnosis and treatment of localised cancers allowing to enhance the quality of life for patients and reduce the cancer mortality. The purpose of this Ph.D. is to investigate recent results in image style transfer obtained by generative adversorial networks (GANs) in order to build a model allowing to produce CT scan images of a patient from MRI ones.
+We are currently seeking a Ph.D. candidate for a Ph.D. position at the Centre Oscar Lambret and Université de Lille - CRIStAL. The Ph.D. is funded for 3 years as part of the <a href="https://www.interreg2seas.eu/fr/cobra" style="color: rgb(22,184,78)">COBRA european project</a>. The CoBra project is interested in technological innovation for diagnosis and treatment of localised cancers allowing to enhance the quality of life for patients and reduce the cancer mortality. The purpose of this Ph.D. is to investigate recent results in image style transfer obtained by generative adversarial networks (GANs) in order to build a model allowing to produce CT scan images of a patient from MRI ones.
 
 We are seeking applicants with strong programming skills in deep learning and with a strong background in statistics, machine learning and signal processing. 
 
