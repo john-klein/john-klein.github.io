@@ -127,6 +127,12 @@ I also work on image processing, information fusion and machine learning.
 
 ### Conference papers
 
+S. Destercke, F. Pichon, J. Klein, . ***From relations between sets to relations between belief functions***, in
+Belief Functions: Theory and Applications: Fifth International Conference, BELIEF 2018, Compiègne, France, September 21-23, 2018. Lecture Notes in Computer Science, Springer.
+***accepted paper***  - 
+<a href="https://john-klein.github.io/assets/files/conf_papers/conf9.pdf" style="color: rgb(22,184,78)">PDF</a>  -
+ 
+
  J. Klein, S. Destercke, O. Colot. ***Idempotent Conjunctive Combination of Belief Functions by Distance Minimization***, in
 Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016, Pragua, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
 [doi: 10.1007/978-3-319-45559-4\_16](http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16) ***Best paper award*** - 
