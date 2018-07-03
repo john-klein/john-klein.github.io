@@ -70,7 +70,18 @@ I obtained the H.D.R. in mathematical sciences from the University of Lille1 Sci
 
 # [](#header-1)Research
 
-Here is a short description of my research activities (topics and publications)
+## Open funded Ph.D. position
+
+We are currently seeking a Ph.D. candidate for a Ph.D. position at the Centre Oscar Lambret and Université de Lille - CRIStAL. The Ph.D. is funded for 3 years as part of the <a href="https://www.interreg2seas.eu/fr/cobra" style="color: rgb(22,184,78)">COBRA european project</a>. The CoBra project is interested on technological innovation for diagnosis and treatment of localised cancers able to enhance the quality of life for patient and reduce the cancer mortality. The purpose of this Ph.D. is to investigate recent results in image style transfer obtained by generative adversorial networks (GANs) in order to build a model allowing to produce CT scan images of a patient from MRI ones.
+
+We are seeking applicants with strong programming skills in deep learning and with a strong background in statistics, machine learning and signal processing.
+
+Deadline for applications: 31/07/2018
+Anticipated start date: 01/10/2018
+
+Detailed position description: <a href="https://john-klein.github.io/assets/files/PhD proposal.pdf" style="color: rgb(22,184,78)">Ph.D.</a>
+
+[comment]: <> (Here is a short description of my research activities (topics and publications))
 
 ## [](#header-2)Topics
 
@@ -128,7 +139,7 @@ I also work on image processing, information fusion and machine learning.
 ### Conference papers
 
 S. Destercke, F. Pichon, J. Klein, . ***From relations between sets to relations between belief functions***, in
-Belief Functions: Theory and Applications: Fifth International Conference, BELIEF 2018, Compiègne, France, September 21-23, 2018. Lecture Notes in Computer Science, Springer.
+Belief Functions: Theory and Applications: Fifth International Conference, BELIEF 2018, Compiègne, France, September 17-21, 2018. Lecture Notes in Computer Science, Springer.
 ***accepted paper***  - 
 <a href="https://john-klein.github.io/assets/files/conf_papers/conf9.pdf" style="color: rgb(22,184,78)">PDF</a>  -
  
