@@ -12,7 +12,7 @@ L'objectif pour les étudiants est de maîtriser certaines techniques de filtrag
 
 ## Chapitres du cours
 
-1. Analyse des signaux analogiques [PDF](./assets/files/sis/SiS_chap1.pdf)
+1. Analyse des signaux analogiques [PDF](./assets/files/sis/SiS_chap1_2017.pdf)
 2. Filtrage analogique [PDF](./assets/files/sis/SiS_chap2.pdf)
 3. Analyse des signaux numériques [PDF](./assets/files/sis/SiS_chap3.pdf)
 4. Filtrage numérique [PDF](./assets/files/sis/SiS_chap4.pdf)
