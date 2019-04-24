@@ -103,8 +103,8 @@ Probability|_u_               | _v_               | _w_        |
 Probabilities can be distributed on each state as usual: _u + v + w = 1_. By building upon this idea, we see that probability triplets for each proposition must follow some assignment rules. This is one way to derive the framework of the theory of **belief functions** in which I made most of my contributions.
 
 > An equivalent representation of the same information are given by (epistemic) **random sets**. The probability that that a given set contains the random set is _u_. The probability that the random set intersects a given set is _u+v_.
-
-> Ohter related frameworks are:
+>
+> Other related frameworks are:
 > Fiducial inference, Robust Bayesian analysis, Imprecise probabilities, Lower previsions, Second order probabilities. 
 
 I also work on image processing, information fusion and machine learning (ensemble methods, decentralized learning).
@@ -195,7 +195,7 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 <a href="https://john-klein.github.io/assets/files/TheseFinale_copie1.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 ### [](#header-3)Technical Reports
- J. Klein, ***Machine learning perspectives for smart buildings: an overview***, technical report for the INCASE project, october 2017, Université de Lille1 Sciences et Technologies. - 
+ J. Klein, ***Machine learning perspectives for smart buildings: an overview***, technical report for the INCASE project, October 2017, Université de Lille1 Sciences et Technologies. - 
 <a href="https://john-klein.github.io/assets/files/smart_buildings.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 * * *
