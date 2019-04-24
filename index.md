@@ -102,22 +102,24 @@ Probability|_u_               | _v_               | _w_        |
 
 Probabilities can be distributed on each state as usual: _u + v + w = 1_. By building upon this idea, we see that probability triplets for each proposition must follow some assignment rules. This is one way to derive the framework of the theory of **belief functions** in which I made most of my contributions.
 
-> Related frameworks are:
-> Fiducial inference, Robust Bayesian analysis, Imprecise probabilities, Lower previsions, Second order probabilities, Random measures,
+> An equivalent representation of the same information are given by (epistemic) **random sets**. The probability that that a given set contains the random set is _u_. The probability that the random set intersects a given set is _u+v_.
 
-I also work on image processing, information fusion and machine learning.
+> Ohter related frameworks are:
+> Fiducial inference, Robust Bayesian analysis, Imprecise probabilities, Lower previsions, Second order probabilities. 
+
+I also work on image processing, information fusion and machine learning (ensemble methods, decentralized learning).
 
 ## [](#header-2)Publications
 
 ### Journal papers
 
-J. Klein, ***Complementary Lipschitz continuity results for the distribution of intersections or unions of independent random sets in finite discrete spaces***, in International Journal of Approximate Reasoning, accepted, 2019 [https://doi.org/10.1016/j.ijar.2019.04.007](https://doi.org/10.1016/j.ijar.2019.04.007) - 
-<a href="https://arxiv.org/pdf/1804.10028.pdf" style="color: rgb(22,184,78)">PDF</a>
+J. Klein, ***Complementary Lipschitz continuity results for the distribution of intersections or unions of independent random sets in finite discrete spaces***, in International Journal of Approximate Reasoning, accepted, 2019, [https://doi.org/10.1016/j.ijar.2019.04.007](https://doi.org/10.1016/j.ijar.2019.04.007) - 
+<a href="https://arxiv.org/pdf/1810.10859.pdf" style="color: rgb(22,184,78)">PDF</a>
 
- S. Destercke, F. Pichon, J. Klein ***From set relations to belief function relations***, in International Journal of Approximate Reasoning, accepted, 2019 [https://doi.org/10.1016/j.ijar.2019.04.002](https://doi.org/10.1016/j.ijar.2019.04.002) - 
+ S. Destercke, F. Pichon, J. Klein ***From set relations to belief function relations***, in International Journal of Approximate Reasoning, accepted, 2019, [https://doi.org/10.1016/j.ijar.2019.04.002](https://doi.org/10.1016/j.ijar.2019.04.002) - 
 <a href="https://john-klein.github.io/assets/files/journal_papers/journal9.pdf" style="color: rgb(22,184,78)">PDF</a>
 
- J. Klein, S. Destercke, O. Colot, ***Idempotent conjunctive and disjunctive combination of belief functions by distance minimization***, in International Journal of Approximate Reasoning, vol. 92, pp. 32-48, 2018 [https://doi.org/10.1016/j.ijar.2017.10.004](https://doi.org/10.1016/j.ijar.2017.10.004) - [Code](https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization) - 
+ J. Klein, S. Destercke, O. Colot, ***Idempotent conjunctive and disjunctive combination of belief functions by distance minimization***, in International Journal of Approximate Reasoning, vol. 92, pp. 32-48, 2018, [https://doi.org/10.1016/j.ijar.2017.10.004](https://doi.org/10.1016/j.ijar.2017.10.004) - [Code](https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization) - 
 <a href="https://john-klein.github.io/assets/files/journal_papers/journal8.pdf" style="color: rgb(22,184,78)">PDF</a>
 
  J. Klein, S. Destercke, O. Colot, ***Interpreting evidential distances by connecting them to partial orders: Application to belief function approximation***, in International Journal of Approximate Reasoning, vol. 71, pp. 15-33, April 2016, [http://dx.doi.org/ 10.1016/j.ijar.2016.01.001.](http://www.sciencedirect.com/science/article/pii/S0888613X16000025) - 
