@@ -116,7 +116,7 @@ I also work on image processing, information fusion and machine learning (ensemb
 J. Klein, ***Complementary Lipschitz continuity results for the distribution of intersections or unions of independent random sets in finite discrete spaces***, in International Journal of Approximate Reasoning, accepted, 2019, [https://doi.org/10.1016/j.ijar.2019.04.007](https://doi.org/10.1016/j.ijar.2019.04.007) - 
 <a href="https://arxiv.org/pdf/1810.10859.pdf" style="color: rgb(22,184,78)">PDF</a>
 
- S. Destercke, F. Pichon, J. Klein ***From set relations to belief function relations***, in International Journal of Approximate Reasoning, accepted, 2019, [https://doi.org/10.1016/j.ijar.2019.04.002](https://doi.org/10.1016/j.ijar.2019.04.002) - 
+ S. Destercke, F. Pichon, J. Klein ***From set relations to belief function relations***, in International Journal of Approximate Reasoning, vol. 110, pp. 46-63, 2019, [https://doi.org/10.1016/j.ijar.2019.04.002](https://doi.org/10.1016/j.ijar.2019.04.002) - 
 <a href="https://john-klein.github.io/assets/files/journal_papers/journal9.pdf" style="color: rgb(22,184,78)">PDF</a>
 
  J. Klein, S. Destercke, O. Colot, ***Idempotent conjunctive and disjunctive combination of belief functions by distance minimization***, in International Journal of Approximate Reasoning, vol. 92, pp. 32-48, 2018, [https://doi.org/10.1016/j.ijar.2017.10.004](https://doi.org/10.1016/j.ijar.2017.10.004) - [Code](https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization) - 
