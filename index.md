@@ -187,7 +187,7 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
 
 ### [](#header-3)Abstracts
 
-K. Brou Boni, L. Vanquin, A. Wagner, D. Pasquier, J. Klein and N. Reynaert, *** High-Resolution Synthetic-CT Generation with Conditional Generative Adversarial Networks ***, in Magnetic Resonance in Radio-Therapy, MRinRT 2019,Toronto, Canada, July 2019.
+K. Brou Boni, L. Vanquin, A. Wagner, D. Pasquier, J. Klein and N. Reynaert, ***High-Resolution Synthetic-CT Generation with Conditional Generative Adversarial Networks***, in Magnetic Resonance in Radio-Therapy, MRinRT 2019,Toronto, Canada, July 2019.
 
 ### [](#header-3)Thesis
 
