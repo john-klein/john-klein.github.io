@@ -185,6 +185,10 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
  [doi:10.1109/ITSC.2007.4357765](http://ieeexplore.ieee.org/document/4357765/) - 
 <a href="https://john-klein.github.io/assets/files/conf_papers/conf1.pdf" style="color: rgb(22,184,78)">PDF</a>
 
+### [](#header-3)Abstracts
+
+K. Brou Boni, L. Vanquin, A. Wagner, D. Pasquier, J. Klein and N. Reynaert, *** High-Resolution Synthetic-CT Generation with Conditional Generative Adversarial Networks ***, in Magnetic Resonance in Radio-Therapy, MRinRT 2019,Toronto, Canada, July 2019.
+
 ### [](#header-3)Thesis
 
  J. Klein, ***Algebraic and metric structures for belief functions***, HDR thesis, defended on December the 7th, 2017. Université Lille1 Sciences et Technologies. - 
