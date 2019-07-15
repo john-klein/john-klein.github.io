@@ -148,16 +148,19 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 ### Conference papers
 
-J. Klein, M. Albardan, B. Guedj, O. Colot. ***Decentralized learning with budgeted network load using Gaussian copulas and classifier ensembles***, in Decentralized Machine Learning at the Edge (DMLE), ECML-PKDD Workshop, Würzburg, Germany, 2019. ***accepted paper***.
+J. Klein, M. Albardan, B. Guedj, O. Colot. ***Decentralized learning with budgeted network load using Gaussian copulas and classifier ensembles***, in Decentralized Machine Learning at the Edge (DMLE), ECML-PKDD Workshop, Würzburg, Germany, September 16th, 2019. ***accepted paper***.
 <a href="https://github.com/john-klein/DELCO" style="color: rgb(241,105,19)">CODE</a> 
 
-S. Destercke, F. Pichon, J. Klein, . ***From relations between sets to relations between belief functions***, in
+S. Bernard, T. Pevný, P. Bas, J. Klein. ***Exploiting Adversarial Embeddings for Better Steganography***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'19, Paris, France, July 3-5, 2019.
+[doi: 10.1145/3335203.3335737](https://doi.org/10.1145/3335203.3335737) - <a href="http://delivery.acm.org/10.1145/3340000/3335737/p216-bernard.pdf?ip=134.206.210.29&id=3335737&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1563190964_50567f23593c6ce35b34a64f79edf3f7" style="color: rgb(22,184,78)">PDF</a> - ***Best student paper award***
+
+S. Destercke, F. Pichon, J. Klein. ***From relations between sets to relations between belief functions***, in
 Belief Functions: Theory and Applications: Fifth International Conference, BELIEF 2018, Compiègne, France, September 17-21, 2018. Lecture Notes in Computer Science, Springer.
 [doi: 10.1007/978-3-319-99383-6_9](https://doi.org/10.1007/978-3-319-99383-6_9) - 
-<a href="https://john-klein.github.io/assets/files/conf_papers/conf9.pdf" style="color: rgb(22,184,78)">PDF</a>  -
+<a href="https://john-klein.github.io/assets/files/conf_papers/conf9.pdf" style="color: rgb(22,184,78)">PDF</a> 
  
  J. Klein, S. Destercke, O. Colot. ***Idempotent Conjunctive Combination of Belief Functions by Distance Minimization***, in
-Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016, Pragua, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
+Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016, Prague, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
 [doi: 10.1007/978-3-319-45559-4\_16](http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16) ***Best paper award*** - 
 <a href="https://john-klein.github.io/assets/files/conf_papers/conf8.pdf" style="color: rgb(22,184,78)">PDF</a>  -
 <a href="https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization" style="color: rgb(241,105,19)">CODE</a> 
