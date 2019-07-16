@@ -149,6 +149,7 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 ### Conference papers
 
 J. Klein, M. Albardan, B. Guedj, O. Colot. ***Decentralized learning with budgeted network load using Gaussian copulas and classifier ensembles***, in Decentralized Machine Learning at the Edge (DMLE), ECML-PKDD Workshop, Würzburg, Germany, September 16th, 2019. ***accepted paper***.
+<a href="https://arxiv.org/pdf/1804.10028.pdf" style="color: rgb(22,184,78)">PDF</a> - 
 <a href="https://github.com/john-klein/DELCO" style="color: rgb(241,105,19)">CODE</a> 
 
 S. Bernard, T. Pevný, P. Bas, J. Klein. ***Exploiting Adversarial Embeddings for Better Steganography***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'19, Paris, France, July 3-5, 2019.
