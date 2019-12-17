@@ -12,9 +12,9 @@ The unit is organized with respect to different classes of methods: linear aggre
 
 ## Chapters
 
-1. Linear Aggregation [PDF](./assets/files/datfus/EnsLearn1.pdf)
-2. Beyond Linear Aggregation [PDF](./assets/files/datfus/EnsLearn2.pdf)
-3. Boosting [PDF](./assets/files/datfus/EnsLearn3.pdf)
+1. Linear Aggregation [PDF](./assets/files/datfus/EnsLearn_1.pdf)
+2. Beyond Linear Aggregation [PDF](./assets/files/datfus/EnsLearn_2.pdf)
+3. Boosting [PDF](./assets/files/datfus/EnsLearn_3.pdf)
 4. Matriochka models (online soon)
 
 
