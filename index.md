@@ -64,7 +64,7 @@ body {
 
 Since September 2009, I am a (tenured) associate professor at the University of Lille (formerly University of Lille1 Sciences and Technologies). I belong to the faculty of sciences and technologies which is located in the "Cité Scientifique" campus of Villeneuve d'Ascq. I am a member of the department of electrical engineering and automation department but I also teach in the department of computer sciences. I am also affiliated to CRIStAL, the research center in computer sciences, automatic control and signal processing of the university.
 
-I obtained the H.D.R. in mathematical sciences from the University of Lille1 Sciences and Technologies in 2017 and a Ph.D. in informations sciences from the University of Rouen in 2008. Prior to that, I was an intern in Beijing University and I obtained a Master degree from the University of Bordeaux1 and ENSEIRB.
+I obtained the H.D.R. in computer sciences from the University of Lille in 2017 and a Ph.D. in informations sciences from the University of Rouen in 2008. Prior to that, I was an intern in Beijing University and I obtained a Master degree from the University of Bordeaux1 and ENSEIRB.
 
 * * *
 
@@ -113,7 +113,7 @@ I also work on image processing, information fusion and machine learning (ensemb
 
 ### Journal papers
 
-J. Klein, ***Complementary Lipschitz continuity results for the distribution of intersections or unions of independent random sets in finite discrete spaces***, in International Journal of Approximate Reasoning, accepted, 2019, [https://doi.org/10.1016/j.ijar.2019.04.007](https://doi.org/10.1016/j.ijar.2019.04.007) - 
+J. Klein, ***Complementary Lipschitz continuity results for the distribution of intersections or unions of independent random sets in finite discrete spaces***, in International Journal of Approximate Reasoning, vol. 110, pp. 164-184, 2019, [https://doi.org/10.1016/j.ijar.2019.04.007](https://doi.org/10.1016/j.ijar.2019.04.007) - 
 <a href="https://arxiv.org/pdf/1810.10859.pdf" style="color: rgb(22,184,78)">PDF</a>
 
  S. Destercke, F. Pichon, J. Klein ***From set relations to belief function relations***, in International Journal of Approximate Reasoning, vol. 110, pp. 46-63, 2019, [https://doi.org/10.1016/j.ijar.2019.04.002](https://doi.org/10.1016/j.ijar.2019.04.002) - 
@@ -218,7 +218,7 @@ Here is the list of my current activities
 
 *  Machine Learning > [unit details (in French)](another-page).
 *  Real Time Operating Systems > [unit details (in French)](str). 
-*  Data Fusion > [unit details (in English)](datfus).
+*  Ensemble Learning > [unit details (in English)](datfus).
 *  Signal Processing > [unit details (in French)](sis).
 *  Mobile Robotics > [unit details (in French)](rob).
 *  UML > [unit details (in French)](uml).
