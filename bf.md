@@ -15,7 +15,7 @@ From the above examples, we see that there are two leading forms of uncertainty:
 
 **Probabilities** are an appealing mathematical model to grasp many aspects of uncertainty. When the nature of the problem is single-valued but the data we have access to is set-valued (or many-valued), other constructs are instrumental. 
 
-[comment]: <> (As an example, consider a physical quantity _x_ that one wishes to determine but the sensing device one has can only indicate that _x_ belongs to some interval [_a_,_b_]. This measurement is imprecise in the sense that it is not single-valued. A sample of such measurements will contain different intervals owing to random fluctuations of the physical quantity and to measurement noise.)
+>(As an example, consider a physical quantity _x_ that one wishes to determine but the sensing device one has can only indicate that _x_ belongs to some interval [_a_,_b_]. This measurement is imprecise in the sense that it is not single-valued. A sample of such measurements will contain different intervals owing to random fluctuations of the physical quantity and to measurement noise.)
 
 In this case, one has to deal with of mix of the two forms of uncertainty and a workaround consists in hybridizing probability and set theories.
 
@@ -28,7 +28,7 @@ Regardless of the foundations of belief functions, these latter have a large exp
 
 As in the above example, when an observation process is imprecise and produces set-valued measurements of an unknown point-valued and randomly fluctuating quantity that we wish to evaluate, we obtain an epistemic random set. This is in contrast with situations where the unknown is set-valued and the observation process is precise, in which case, we obtain an ontic random set. 
 
-[comment]: <> (As an example of ontic random set, consider a that one wishes to track pedestrians in a video. The number and the positions of the pedestrians randomly varying over time. At a given time step, the set of their positions is a realization of an ontic random set.)
+>(As an example of ontic random set, consider a that one wishes to track pedestrians in a video. The number and the positions of the pedestrians randomly varying over time. At a given time step, the set of their positions is a realization of an ontic random set.)
 
 In the discrete case, random sets can be defined in the same way as usual random variables. In the continuous case, the probability that a random set is equal to a given deterministic _B_ is zero for any such set _B_ therefore we need to define another way to identify which sets are more likely to be observed as realizations of _S_. A workaround consists in examining how often _S_ hits _B_ or how often it is contained in _B_. This is exactly what the hitting and containment functionals are meant to grasp. These functionals fully characterize the random set _S_ and they both hold the same information as one can be computed from the other one and vice versa. A belief function is nothing but a containment functional of an epistemic random set.
 
@@ -54,7 +54,7 @@ Probabilities can be distributed on each state as usual: _u + v + w = 1_. By bui
 
 Following the above notations, we see that the probability _p(A)_ of event _A_ can be bracketed by _u_ and _u+w_. In this case, the function that maps each event to its probability lower bound is a belief function. In general, not all probability lower bounds are belief functions and belong to a more general framework known as **imprecise probabilities** that relies on capacity theory and Choquet integrals. A belief function is actually an infinite monotone lower probability.
 
-The set of inequalities _u &lt p(A) &lt u+w_ also defines a region of the space of probability distribution. Thus, belief functions are also in correspondence with "feasible sets of probability distributions" known as credal sets.
+The set of inequalities _u \< p(A) \< u+w_ also defines a region of the space of probability distribution. Thus, belief functions are also in correspondence with "feasible sets of probability distributions" known as credal sets.
 
 <!--
 > Other related frameworks are:

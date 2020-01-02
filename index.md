@@ -89,12 +89,12 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 
   * __AI__ - Reasoning : 
-  I have a strong interest in the information fusion paradigm and more generally in artificial reasoning under uncertainty frameworks allowing to perform fusion. Among these formalisms, I developed several contributions in the field of belief functions. These functions are spanned by probabilistic mechanisms when events can be assigned three epistemic states (true, false or unknown). Thanks to this generalization, belief functions are a model that better fits many situations or data in which several forms of uncertainty are involved. 
+  I have a strong interest in the __information fusion__ paradigm and more generally in artificial reasoning under uncertainty frameworks allowing to perform fusion. Among these formalisms, I developed several contributions in the field of __belief functions__. These functions are spanned by probabilistic mechanisms when events can be assigned three epistemic states (true, false or unknown). Thanks to this generalization, belief functions are a model that better fits many situations or data in which several forms of uncertainty are involved. 
   Click here to [learn more on belief functions](bf). 
 
   * __AI__ - Learning : 
-  I also have interests in machine learning and especially in ensembling and aggregation methods which share some ideas with information fusion. 
-  More recently, I have also been working on deep learning applied to image processing tasks such as segmentation, style transfer or secure secret message embedding (steganography). 
+  I also have interests in machine learning and especially in __ensembling__ and aggregation methods which share some ideas with information fusion. 
+  More recently, I have also been working on __deep learning__ applied to __image processing__ tasks such as segmentation, style transfer or secure secret message embedding (steganography). 
   Finally, I am also interested in state-space models such as particle filtering / sequential Monte Carlo.
   
 
@@ -220,7 +220,7 @@ In the past, I also taught linear control, digital electronics as well as C, C++
 
 # Responsibility
 
-I have been leading the automation teaching team since 2012. 
+I led the automation teaching team between 2012 and 2019. 
 This team has 12 tenured members, 4 non teaching staff members and from 2 to 6 temporary members. We are responsible for teaching units dealing with computer engineering, automatic control and signal processing in the faculty of sciences of technologies. We teach every year to around 500 students.
 
 
