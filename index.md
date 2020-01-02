@@ -85,29 +85,18 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 [comment]: <> (Here is a short description of my research activities (topics and publications))
 
-## [](#header-2)Topics
+## [](#header-2)Topic: Data sciences and Artificial Intelligence
 
-My leading research activity is (computational) **reasoning under uncertainty** which is a field of data sciences and artificial intelligence. 
 
-**Uncertainty** arises in many circumstances:
-* when data is noisy (e.g. photon counting data is Poisson distributed),
-* when we need a simpler picture (e.g. a Brownian motion describes general statistical properties of the movement of a dust particle),
-* when data is missing (e.g. the value of a feature is sometimes unknown for some examples in a dataset).
+  * __AI__ - Reasoning : 
+  I have a strong interest in the information fusion paradigm and more generally in artificial reasoning under uncertainty frameworks allowing to perform fusion. Among these formalisms, I developed several contributions in the field of belief functions. These functions are spanned by probabilistic mechanisms when events can be assigned three epistemic states (true, false or unknown). Thanks to this generalization, belief functions are a model that better fits many situations or data in which several forms of uncertainty are involved. 
+  Click here to [learn more on belief functions](bf). 
 
-**Probabilities** are an appealing mathematical model to grasp uncertainty. However, there are several kinds of uncertainty and, in particular, imprecision needs special care to be correctly modeled. When the truth or the falsity of a proposition cannot be (fully) determined in light of evidence, one can introduce a third epistemic state: the _don't know_ state. 
-
-State      | known to be true | known to be false | don't know |
------------|:-----------------|:------------------|:-----------|
-Probability|_u_               | _v_               | _w_        |
-
-Probabilities can be distributed on each state as usual: _u + v + w = 1_. By building upon this idea, we see that probability triplets for each proposition must follow some assignment rules. This is one way to derive the framework of the theory of **belief functions** in which I made most of my contributions.
-
-> An equivalent representation of the same information are given by (epistemic) **random sets**. The probability that that a given set contains the random set is _u_. The probability that the random set intersects a given set is _u+v_.
->
-> Other related frameworks are:
-> Fiducial inference, Robust Bayesian analysis, Imprecise probabilities, Lower previsions, Second order probabilities. 
-
-I also work on image processing, information fusion and machine learning (ensemble methods, decentralized learning).
+  * __AI__ - Learning : 
+  I also have interests in machine learning and especially in ensembling and aggregation methods which share some ideas with information fusion. 
+  More recently, I have also been working on deep learning applied to image processing tasks such as segmentation, style transfer or secure secret message embedding (steganography). 
+  Finally, I am also interested in state-space models such as particle filtering / sequential Monte Carlo.
+  
 
 ## [](#header-2)Publications
 
