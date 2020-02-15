@@ -102,6 +102,10 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ### Journal papers
 
+K. Brou Boni, J. Klein , L. Vanquin, A. Wagner, T. Lacornerie, D. Pasquier and N. Reynaert, ***MR to CT synthesis with multicenter data in the pelvic era using a conditional generative adversarial network***, in Physics in Medicine and Biology, accepted paper, 2020, 
+[https://doi.org/10.1088/1361-6560/ab7633](https://doi.org/10.1088/1361-6560/ab7633) - 
+<a href="https://john-klein.github.io/assets/files/journal_papers/journal11.pdf" style="color: rgb(22,184,78)">PDF</a>
+
 J. Klein, ***Complementary Lipschitz continuity results for the distribution of intersections or unions of independent random sets in finite discrete spaces***, in International Journal of Approximate Reasoning, vol. 110, pp. 164-184, 2019, [https://doi.org/10.1016/j.ijar.2019.04.007](https://doi.org/10.1016/j.ijar.2019.04.007) - 
 <a href="https://arxiv.org/pdf/1810.10859.pdf" style="color: rgb(22,184,78)">PDF</a>
 
