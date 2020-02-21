@@ -106,6 +106,11 @@ K. Brou Boni, J. Klein , L. Vanquin, A. Wagner, T. Lacornerie, D. Pasquier and N
 [https://doi.org/10.1088/1361-6560/ab7633](https://doi.org/10.1088/1361-6560/ab7633) - 
 <a href="https://john-klein.github.io/assets/files/journal_papers/journal11.pdf" style="color: rgb(22,184,78)">PDF</a>
 
+J. Klein, M. Albardan, O. Colot, ***SPOCC: Scalable POssibilistic Classifier Combination -- toward robust aggregation of classifiers***, in Expert Systems With Applications, accepted paper, 2020, 
+[https://doi.org/10.1016/j.eswa.2020.113332](https://doi.org/10.1016/j.eswa.2020.113332) - 
+<a href="https://arxiv.org/pdf/1908.06475.pdf" style="color: rgb(22,184,78)">PDF</a> - 
+<a href="https://github.com/john-klein/SPOCC" style="color: rgb(241,105,19)">CODE</a>
+
 J. Klein, ***Complementary Lipschitz continuity results for the distribution of intersections or unions of independent random sets in finite discrete spaces***, in International Journal of Approximate Reasoning, vol. 110, pp. 164-184, 2019, [https://doi.org/10.1016/j.ijar.2019.04.007](https://doi.org/10.1016/j.ijar.2019.04.007) - 
 <a href="https://arxiv.org/pdf/1810.10859.pdf" style="color: rgb(22,184,78)">PDF</a>
 
