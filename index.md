@@ -117,6 +117,8 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
  S. Destercke, F. Pichon, J. Klein ***From set relations to belief function relations***, in International Journal of Approximate Reasoning, vol. 110, pp. 46-63, 2019, [https://doi.org/10.1016/j.ijar.2019.04.002](https://doi.org/10.1016/j.ijar.2019.04.002) - 
 <a href="https://john-klein.github.io/assets/files/journal_papers/journal9.pdf" style="color: rgb(22,184,78)">PDF</a>
 
+ A. Desreveaux, A. Bouscayrol, R. Trigui, E. Castex, J. Klein ***Impact of the Velocity Profile on Energy Consumption of Electric Vehicles***, in IEEE Transactions on Vehicular Technology, vol. 68, no. 12, pp. 11420-11426, 2019, [https://doi.org/10.1109/TVT.2019.2949215](https://doi.org/10.1109/TVT.2019.2949215) 
+
  J. Klein, S. Destercke, O. Colot, ***Idempotent conjunctive and disjunctive combination of belief functions by distance minimization***, in International Journal of Approximate Reasoning, vol. 92, pp. 32-48, 2018, [https://doi.org/10.1016/j.ijar.2017.10.004](https://doi.org/10.1016/j.ijar.2017.10.004) - [Code](https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization) - 
 <a href="https://john-klein.github.io/assets/files/journal_papers/journal8.pdf" style="color: rgb(22,184,78)">PDF</a>
 
