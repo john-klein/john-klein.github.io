@@ -103,6 +103,7 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 ### Journal papers
 
 S. Bernard, P. Bas, J. Klein, T. Pevný, ***Explicit Optimization of min max Steganographic Game***, in IEEE Transactions on Information Forensics and Security, accepted paper, 2020, 
+[https://dx.doi.org/10.1109/TIFS.2020.3021913](https://dx.doi.org/10.1109/TIFS.2020.3021913) -
 <a href="https://hal.archives-ouvertes.fr/hal-02926034/document" style="color: rgb(22,184,78)">PDF</a>
 
 K. Brou Boni, J. Klein , L. Vanquin, A. Wagner, T. Lacornerie, D. Pasquier and N. Reynaert, ***MR to CT synthesis with multicenter data in the pelvic era using a conditional generative adversarial network***, in Physics in Medicine and Biology, vol. 65(7), p.075002, 2020, 
