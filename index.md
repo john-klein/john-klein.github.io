@@ -60,6 +60,8 @@ body {
 
 * * *
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 # [](#header-1)Short Bio
 
 Since September 2009, I am a (tenured) associate professor at the University of Lille (formerly University of Lille1 Sciences and Technologies). I belong to the faculty of sciences and technologies which is located in the "Cité Scientifique" campus of Villeneuve d'Ascq. I am a member of the department of electrical engineering and automation department but I also teach in the department of computer sciences. I am also affiliated to CRIStAL, the research center in computer sciences, automatic control and signal processing of the university.
