@@ -105,7 +105,7 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ### Journal papers
 
-S. Bernard, P. Bas, J. Klein, T. Pevný, ***Explicit Optimization of min max Steganographic Game***, in IEEE Transactions on Information Forensics and Security, accepted paper, 2020, 
+S. Bernard, P. Bas, J. Klein, T. Pevný, ***Explicit Optimization of min max Steganographic Game***, in IEEE Transactions on Information Forensics and Security, vol.16, pp. 818--823, 2020, 
 [https://dx.doi.org/10.1109/TIFS.2020.3021913](https://dx.doi.org/10.1109/TIFS.2020.3021913) -
 <a href="https://hal.archives-ouvertes.fr/hal-02926034/document" style="color: rgb(22,184,78)">PDF</a>
 
