@@ -155,6 +155,8 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 ### Conference papers
 
+R. Min, C. Garnier, F. Septier, J. Klein. ***Block Kalman Filter: an asymptotic block particle tilter in the linear Gaussian case***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2021, Toronto, Canada, 2021 - _accepted paper_.
+
 J. Klein, M. Albardan, B. Guedj, O. Colot. ***Decentralized learning with budgeted network load using Gaussian copulas and classifier ensembles***, in Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases, ECML PKDD 2019, Communications in Computer and Information Science, vol 1167, Würzburg, Germany, September 16th, 2020. 
 [doi: 10.1007/978-3-030-43823-4_26](https://doi.org/10.1007/978-3-030-43823-4_26)
 <a href="https://arxiv.org/pdf/1804.10028.pdf" style="color: rgb(22,184,78)">PDF</a> - 
