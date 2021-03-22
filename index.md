@@ -105,7 +105,7 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ### Journal papers
 
-K. Brou Boni, J. Klein , A. Gulyban, D. Pasquier and N. Reynaert, ***Improving generalization in MR to CT synthesis in radiotherapy using an augmented cycle generative adversarial network with unpaired data ***, in Medical Physics, *accepted paper*, 2021, 
+K. Brou Boni, J. Klein , A. Gulyban, D. Pasquier and N. Reynaert, ***Improving generalization in MR to CT synthesis in radiotherapy using an augmented cycle generative adversarial network with unpaired data***, in Medical Physics, *accepted paper*, 2021, 
 <a href="https://github.com/BrouBoni/AugCGAN_ct2mr" style="color: rgb(241,105,19)">CODE</a>
 
 
