@@ -106,7 +106,8 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 ### Journal papers
 
 K. Brou Boni, J. Klein , A. Gulyban, D. Pasquier and N. Reynaert, ***Improving generalization in MR to CT synthesis in radiotherapy using an augmented cycle generative adversarial network with unpaired data***, in Medical Physics, *accepted paper*, 2021, 
-<a href="https://github.com/BrouBoni/AugCGAN_ct2mr" style="color: rgb(241,105,19)">CODE</a>
+[https://doi.org/10.1002/mp.14866](https://doi.org/10.1002/mp.14866)
+<a href="https://github.com/BrouBoni/AugCGAN_ct2mr" style="color: rgb(241,105,19)">CODE</a> - <a href="https://john-klein.github.io/assets/files/journal_papers/journal15.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 
 S. Bernard, P. Bas, J. Klein, T. Pevný, ***Explicit Optimization of min max Steganographic Game***, in IEEE Transactions on Information Forensics and Security, vol.16, pp. 818--823, 2020, 
