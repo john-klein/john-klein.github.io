@@ -160,6 +160,9 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 ### Conference papers
 
+S. Bernard, P. Bas, J. Klein, T. Pevný, ***Optimizing Additive Approximations of Non-Additive Distortion Functions***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'21, Brussels, Belgium, 2021 - _accepted paper_
+
+
 R. Min, C. Garnier, F. Septier, J. Klein. ***Block Kalman Filter: an asymptotic block particle tilter in the linear Gaussian case***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2021, Toronto, Canada, 2021 - _accepted paper_.
 
 J. Klein, M. Albardan, B. Guedj, O. Colot. ***Decentralized learning with budgeted network load using Gaussian copulas and classifier ensembles***, in Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases, ECML PKDD 2019, Communications in Computer and Information Science, vol 1167, Würzburg, Germany, September 16th, 2020. 
