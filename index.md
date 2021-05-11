@@ -160,8 +160,9 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 ### Conference papers
 
-S. Bernard, P. Bas, J. Klein, T. Pevný, ***Optimizing Additive Approximations of Non-Additive Distortion Functions***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'21, Brussels, Belgium, 2021 - _accepted paper_
+R. Min, C. Garnier, F. Septier, J. Klein. ***Parallel Block Particle Filtering***, in IEEE Statistical Signal Processing Workshop, SSP 2021, Rio de Janeiro, Brazil, 2021 - _accepted paper_.
 
+S. Bernard, P. Bas, J. Klein, T. Pevný, ***Optimizing Additive Approximations of Non-Additive Distortion Functions***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'21, Brussels, Belgium, 2021 - _accepted paper_
 
 R. Min, C. Garnier, F. Septier, J. Klein. ***Block Kalman Filter: an asymptotic block particle tilter in the linear Gaussian case***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2021, Toronto, Canada, 2021 - _accepted paper_.
 
