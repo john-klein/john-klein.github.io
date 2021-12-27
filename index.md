@@ -105,7 +105,7 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ### Journal papers
 
-K. Brou Boni, J. Klein , A. Gulyban, D. Pasquier and N. Reynaert, ***Improving generalization in MR to CT synthesis in radiotherapy using an augmented cycle generative adversarial network with unpaired data***, in Medical Physics, *accepted paper*, 2021, 
+K. Brou Boni, J. Klein , A. Gulyban, D. Pasquier and N. Reynaert, ***Improving generalization in MR to CT synthesis in radiotherapy using an augmented cycle generative adversarial network with unpaired data***, in Medical Physics, vol. 48(6), pp. 3003-3010, 2021, 
 [https://doi.org/10.1002/mp.14866](https://doi.org/10.1002/mp.14866)
 <a href="https://github.com/BrouBoni/AugCGAN_ct2mr" style="color: rgb(241,105,19)">CODE</a> - <a href="https://john-klein.github.io/assets/files/journal_papers/journal15.pdf" style="color: rgb(22,184,78)">PDF</a>
 
@@ -160,7 +160,8 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 ### Conference papers
 
-R. Min, C. Garnier, F. Septier, J. Klein. ***Parallel Block Particle Filtering***, in IEEE Statistical Signal Processing Workshop, SSP 2021, Rio de Janeiro, Brazil, 2021 - _accepted paper_.
+R. Min, C. Garnier, F. Septier, J. Klein. ***Parallel Block Particle Filtering***, in IEEE Statistical Signal Processing Workshop, SSP 2021, pp. 86-90, Rio de Janeiro, Brazil, 2021.
+[doi: 10.1109/SSP49050.2021.9513788](https://doi.org/10.1109/SSP49050.2021.9513788) 
 
 S. Bernard, P. Bas, J. Klein, T. Pevný, ***Optimizing Additive Approximations of Non-Additive Distortion Functions***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'21, pp. 105-112, Brussels, Belgium, 2021.
 [doi: 10.1145/3437880.3460407](https://doi.org/10.1145/3437880.3460407) 
