@@ -162,9 +162,12 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 R. Min, C. Garnier, F. Septier, J. Klein. ***Parallel Block Particle Filtering***, in IEEE Statistical Signal Processing Workshop, SSP 2021, Rio de Janeiro, Brazil, 2021 - _accepted paper_.
 
-S. Bernard, P. Bas, J. Klein, T. Pevný, ***Optimizing Additive Approximations of Non-Additive Distortion Functions***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'21, Brussels, Belgium, 2021 - _accepted paper_
+S. Bernard, P. Bas, J. Klein, T. Pevný, ***Optimizing Additive Approximations of Non-Additive Distortion Functions***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'21, pp. 105-112, Brussels, Belgium, 2021.
+[doi: 10.1145/3437880.3460407](https://doi.org/10.1145/3437880.3460407) 
+<a href="https://hal.archives-ouvertes.fr/hal-02177259/document" style="color: rgb(22,184,78)">PDF</a> - ***Best student paper award***
 
-R. Min, C. Garnier, F. Septier, J. Klein. ***Block Kalman Filter: an asymptotic block particle tilter in the linear Gaussian case***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2021, Toronto, Canada, 2021 - _accepted paper_.
+R. Min, C. Garnier, F. Septier, J. Klein. ***Block Kalman Filter: an asymptotic block particle tilter in the linear Gaussian case***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2021, pp. 5574-5578, Toronto, Canada, 2021.
+[doi: 10.1109/ICASSP39728.2021.9413963](https://doi.org/10.1109/ICASSP39728.2021.9413963)
 
 J. Klein, M. Albardan, B. Guedj, O. Colot. ***Decentralized learning with budgeted network load using Gaussian copulas and classifier ensembles***, in Cellier P., Driessens K. (eds) Machine Learning and Knowledge Discovery in Databases, ECML PKDD 2019, Communications in Computer and Information Science, vol 1167, Würzburg, Germany, September 16th, 2020. 
 [doi: 10.1007/978-3-030-43823-4_26](https://doi.org/10.1007/978-3-030-43823-4_26)
