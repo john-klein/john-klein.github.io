@@ -168,7 +168,7 @@ R. Min, C. Garnier, F. Septier, J. Klein. ***Parallel Block Particle Filtering**
 
 S. Bernard, P. Bas, J. Klein, T. Pevný, ***Optimizing Additive Approximations of Non-Additive Distortion Functions***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'21, pp. 105-112, Brussels, Belgium, 2021.
 [doi: 10.1145/3437880.3460407](https://doi.org/10.1145/3437880.3460407) 
-<a href="https://hal.archives-ouvertes.fr/hal-02177259/document" style="color: rgb(22,184,78)">PDF</a> - ***Best student paper award***
+<a href="https://hal.archives-ouvertes.fr/hal-02177259/document" style="color: rgb(22,184,78)">PDF</a> - ***<span style="color:red">Best student paper award</span>***
 
 R. Min, C. Garnier, F. Septier, J. Klein. ***Block Kalman Filter: an asymptotic block particle tilter in the linear Gaussian case***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2021, pp. 5574-5578, Toronto, Canada, 2021.
 [doi: 10.1109/ICASSP39728.2021.9413963](https://doi.org/10.1109/ICASSP39728.2021.9413963)
@@ -179,7 +179,7 @@ J. Klein, M. Albardan, B. Guedj, O. Colot. ***Decentralized learning with budget
 <a href="https://github.com/john-klein/DELCO" style="color: rgb(241,105,19)">CODE</a> 
 
 S. Bernard, T. Pevný, P. Bas, J. Klein. ***Exploiting Adversarial Embeddings for Better Steganography***, in ACM workshop on Information Hiding and Multimedia Security, IH&MMSec'19, Paris, France, July 3-5, 2019.
-[doi: 10.1145/3335203.3335737](https://doi.org/10.1145/3335203.3335737) - <a href="https://hal.archives-ouvertes.fr/hal-02177259/document" style="color: rgb(22,184,78)">PDF</a> - ***Best student paper award***
+[doi: 10.1145/3335203.3335737](https://doi.org/10.1145/3335203.3335737) - <a href="https://hal.archives-ouvertes.fr/hal-02177259/document" style="color: rgb(22,184,78)">PDF</a> - ***<span style="color:red">Best student paper award</span>***
 
 S. Destercke, F. Pichon, J. Klein. ***From relations between sets to relations between belief functions***, in
 Belief Functions: Theory and Applications: Fifth International Conference, BELIEF 2018, Compiègne, France, September 17-21, 2018. Lecture Notes in Computer Science, Springer.
@@ -188,7 +188,7 @@ Belief Functions: Theory and Applications: Fifth International Conference, BELIE
  
  J. Klein, S. Destercke, O. Colot. ***Idempotent Conjunctive Combination of Belief Functions by Distance Minimization***, in
 Belief Functions: Theory and Applications: Fourth International Conference, BELIEF 2016, Prague, Czech Republic, September 21-23, 2016. Lecture Notes in Computer Science, Springer.
-[doi: 10.1007/978-3-319-45559-4\_16](http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16) ***Best paper award*** - 
+[doi: 10.1007/978-3-319-45559-4\_16](http://link.springer.com/chapter/10.1007%2F978-3-319-45559-4_16) ***<span style="color:red">Best paper award</span>*** - 
 <a href="https://john-klein.github.io/assets/files/conf_papers/conf8.pdf" style="color: rgb(22,184,78)">PDF</a>  -
 <a href="https://github.com/john-klein/Conjunctive-and-Disjunctive-combination-by-distance-minimization" style="color: rgb(241,105,19)">CODE</a> 
 
