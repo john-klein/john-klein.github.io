@@ -160,7 +160,8 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 ### Conference papers
 
-A. Deleruyelle, J. Klein, C. Versari. ***SODA: Self-organizing data augmentation in deep neural networks - Application to biomedical image segmentation tasks***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022, Singapore, 2022 - *<span style="color:blue">(Accepted paper)</span>*
+A. Deleruyelle, J. Klein, C. Versari. ***SODA: Self-organizing data augmentation in deep neural networks - Application to biomedical image segmentation tasks***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022, Singapore, 2022 - *<span style="color:blue">(Accepted paper)</span>* 
+<a href="https://arxiv.org/pdf/2202.03223.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 
 R. Min, C. Garnier, F. Septier, J. Klein. ***Parallel Block Particle Filtering***, in IEEE Statistical Signal Processing Workshop, SSP 2021, pp. 86-90, Rio de Janeiro, Brazil, 2021.
