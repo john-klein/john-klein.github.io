@@ -67,7 +67,7 @@ body {
 
 Since September 2009, I am a (tenured) associate professor at the University of Lille (formerly University of Lille1 Sciences and Technologies). I belong to the faculty of sciences and technologies which is located in the "Cité Scientifique" campus of Villeneuve d'Ascq. I am a member of the department of electrical engineering and automation department but I also teach in the department of computer sciences. I am also affiliated to CRIStAL, the research center in computer sciences, automatic control and signal processing of the university.
 
-I obtained the H.D.R. in computer sciences from the University of Lille in 2017 and a Ph.D. in informations sciences from the University of Rouen in 2008. Prior to that, I was an intern in Beijing University and I obtained a Master degree from the University of Bordeaux1 and ENSEIRB.
+I obtained the H.D.R. in computer sciences from the University of Lille in 2017 and a Ph.D. in information sciences from the University of Rouen in 2008. Prior to that, I was an intern in Beijing University and I obtained a Master degree from the University of Bordeaux1 and ENSEIRB.
 
 * * *
 
@@ -102,6 +102,11 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
   
 
 ## [](#header-2)Publications
+
+### Preprints
+
+R. Min, C. Garnier, F. Septier, J. Klein. ***State space partitioning based on constrained spectral clustering for block particle filtering***, preprint, 2022.
+<a href="https://arxiv.org/pdf/2203.03475.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 ### Journal papers
 
