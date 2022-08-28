@@ -86,7 +86,7 @@ Anticipated start date: 01/10/2018
 Detailed position description: <a href="https://john-klein.github.io/assets/files/PhD proposal.pdf" style="color: rgb(22,184,78)">Ph.D.</a>
 -->
 
-[comment]: <> (Here is a short description of my research activities (topics and publications))
+[comment]: <> (Here is a short description of my research activities (topics and publications)
 
 ## [](#header-2)Topic: Data sciences and Artificial Intelligence
 
@@ -103,12 +103,15 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ## [](#header-2)Publications
 
-### Preprints
-
-R. Min, C. Garnier, F. Septier, J. Klein. ***State space partitioning based on constrained spectral clustering for block particle filtering***, preprint, 2022.
-<a href="https://arxiv.org/pdf/2203.03475.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 ### Journal papers
+
+S. Bernard, P. Bas, J. Klein, T. Pevný, ***Backpack: a Backpropagable Adversarial Embedding Scheme***, in IEEE Transactions on Information Forensics and Security, *accepted paper*, 2022.
+
+R. Min, C. Garnier, F. Septier, J. Klein. ***State space partitioning based on constrained spectral clustering for block particle filtering***, in Signal Processing, vol. 201, pp. 108727, 2022,
+[https://doi.org/10.1016/j.sigpro.2022.108727](https://doi.org/10.1016/j.sigpro.2022.108727) -
+<a href="https://arxiv.org/pdf/2203.03475.pdf" style="color: rgb(22,184,78)">PDF</a>
+
 
 K. Brou Boni, J. Klein , A. Gulyban, D. Pasquier and N. Reynaert, ***Improving generalization in MR to CT synthesis in radiotherapy using an augmented cycle generative adversarial network with unpaired data***, in Medical Physics, vol. 48(6), pp. 3003-3010, 2021, 
 [https://doi.org/10.1002/mp.14866](https://doi.org/10.1002/mp.14866)
@@ -167,7 +170,6 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 A. Deleruyelle, J. Klein, C. Versari. ***SODA: Self-organizing data augmentation in deep neural networks - Application to biomedical image segmentation tasks***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022, Singapore, 2022 - *<span style="color:blue">(Accepted paper)</span>* 
 <a href="https://arxiv.org/pdf/2202.03223.pdf" style="color: rgb(22,184,78)">PDF</a>
-
 
 R. Min, C. Garnier, F. Septier, J. Klein. ***Parallel Block Particle Filtering***, in IEEE Statistical Signal Processing Workshop, SSP 2021, pp. 86-90, Rio de Janeiro, Brazil, 2021.
 [doi: 10.1109/SSP49050.2021.9513788](https://doi.org/10.1109/SSP49050.2021.9513788) 
