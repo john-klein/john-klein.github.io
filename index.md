@@ -106,7 +106,9 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ### Journal papers
 
-S. Bernard, P. Bas, J. Klein, T. Pevný, ***Backpack: a Backpropagable Adversarial Embedding Scheme***, in IEEE Transactions on Information Forensics and Security, *accepted paper*, 2022.
+S. Bernard, P. Bas, J. Klein, T. Pevný, ***Backpack: a Backpropagable Adversarial Embedding Scheme***, in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 3539 - 3554, 2022,
+[https://doi.org/10.1109/TIFS.2022.3204218](https://doi.org/10.1109/TIFS.2022.3204218) -
+<a href="https://hal.archives-ouvertes.fr/hal-03760241/document" style="color: rgb(22,184,78)">PDF</a>
 
 R. Min, C. Garnier, F. Septier, J. Klein. ***State space partitioning based on constrained spectral clustering for block particle filtering***, in Signal Processing, vol. 201, pp. 108727, 2022,
 [https://doi.org/10.1016/j.sigpro.2022.108727](https://doi.org/10.1016/j.sigpro.2022.108727) -
@@ -168,7 +170,10 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 ### Conference papers
 
-A. Deleruyelle, J. Klein, C. Versari. ***SODA: Self-organizing data augmentation in deep neural networks - Application to biomedical image segmentation tasks***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022, Singapore, 2022 - *<span style="color:blue">(Accepted paper)</span>* 
+E. Levecqye, J. Klein, P. Bas, J. Butora, ***Toward Reliable JPEG Steganalysis (at QF100)***, in IEEE International Workshop on Information Forensics and Security (WIFS), Shanghai, China, 2022. 
+<a href="https://hal.archives-ouvertes.fr/hal-03808390/document" style="color: rgb(22,184,78)">PDF</a> - ***<span style="color:red">Best student paper award</span>***
+
+A. Deleruyelle, J. Klein, C. Versari. ***SODA: Self-organizing data augmentation in deep neural networks - Application to biomedical image segmentation tasks***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022, Singapore, 2022. [doi: 10.1109/ICASSP43922.2022.9747744](https://doi.org/10.1109/ICASSP43922.2022.9747744)  - 
 <a href="https://arxiv.org/pdf/2202.03223.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 R. Min, C. Garnier, F. Septier, J. Klein. ***Parallel Block Particle Filtering***, in IEEE Statistical Signal Processing Workshop, SSP 2021, pp. 86-90, Rio de Janeiro, Brazil, 2021.
