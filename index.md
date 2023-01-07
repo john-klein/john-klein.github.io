@@ -63,6 +63,8 @@ body {
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="john-klein-60320320"><a class="LI-simple-link" href='https://fr.linkedin.com/in/john-klein-60320320?trk=profile-badge'>John Klein</a></div>
 
+On leave at <a href="https://owkin.com" style="color: rgb(22,184,78)">***Owkin***</a> !!
+
 # [](#header-1)Short Bio
 
 Since September 2009, I am a (tenured) associate professor at the University of Lille (formerly University of Lille1 Sciences and Technologies). I belong to the faculty of sciences and technologies which is located in the "Cité Scientifique" campus of Villeneuve d'Ascq. I am a member of the department of electrical engineering and automation department but I also teach in the department of computer sciences. I am also affiliated to CRIStAL, the research center in computer sciences, automatic control and signal processing of the university.
@@ -105,6 +107,9 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 
 ### Journal papers
+
+A. Deleruyelle, J. Klein, C. Versari. ***Self-mentoring: A new deep learning pipeline to train a self-supervised U-net for few-shot learning of bio-artificial capsule segmentation.***, in Computers in Biology and Medicine, vol. 152, pp. 106454 2022. [doi: 10.1016/j.compbiomed.2022.106454](https://doi.org/10.1016/j.compbiomed.2022.106454)  - 
+<a href="https://arxiv.org/pdf/2205.10840.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 S. Bernard, P. Bas, J. Klein, T. Pevný, ***Backpack: a Backpropagable Adversarial Embedding Scheme***, in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 3539 - 3554, 2022,
 [https://doi.org/10.1109/TIFS.2022.3204218](https://doi.org/10.1109/TIFS.2022.3204218) -
