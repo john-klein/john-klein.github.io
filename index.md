@@ -52,7 +52,7 @@ body {
     Bureau 205, P2 Building, avenue Carl Gauss
 59655 Villeneuve d'Acsq, France.</p>
     <h3>Position</h3>
-    <p> Associate Professor </p>
+    <p> Senior Research Scientist / (Associate Professor on leave) </p>
   </div>
 </div>
 
