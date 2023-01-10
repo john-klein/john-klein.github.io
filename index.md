@@ -52,8 +52,7 @@ body {
     Bureau 205, P2 Building, avenue Carl Gauss
 59655 Villeneuve d'Acsq, France.</p>
     <h3>Position</h3>
-    <p>Senior Research Scientist </p>
-    <p>(Associate Prof. on leave) </p>
+    <p>Senior Research Scientist, (Associate Prof. on leave) </p>
   </div>
 </div>
 
@@ -109,7 +108,7 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ### Journal papers
 
-A. Deleruyelle, J. Klein, C. Versari. ***Self-mentoring: A new deep learning pipeline to train a self-supervised U-net for few-shot learning of bio-artificial capsule segmentation.***, in Computers in Biology and Medicine, vol. 152, pp. 106454 2022. [doi: 10.1016/j.compbiomed.2022.106454](https://doi.org/10.1016/j.compbiomed.2022.106454)  - 
+A. Deleruyelle, J. Klein, C. Versari. ***Self-mentoring: A new deep learning pipeline to train a self-supervised U-net for few-shot learning of bio-artificial capsule segmentation***, in Computers in Biology and Medicine, vol. 152, pp. 106454, 2022. [doi: 10.1016/j.compbiomed.2022.106454](https://doi.org/10.1016/j.compbiomed.2022.106454)  - 
 <a href="https://arxiv.org/pdf/2205.10840.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 S. Bernard, P. Bas, J. Klein, T. Pevný, ***Backpack: a Backpropagable Adversarial Embedding Scheme***, in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 3539 - 3554, 2022,
@@ -177,7 +176,7 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 ### Conference papers
 
 E. Levecqye, J. Klein, P. Bas, J. Butora, ***Toward Reliable JPEG Steganalysis (at QF100)***, in IEEE International Workshop on Information Forensics and Security (WIFS), Shanghai, China, 2022. 
-<a href="https://hal.archives-ouvertes.fr/hal-03808390/document" style="color: rgb(22,184,78)">PDF</a> - ***<span style="color:red">Best student paper award</span>***
+<a href="https://hal.archives-ouvertes.fr/hal-03808390/document" style="color: rgb(22,184,78)">PDF</a> 
 
 A. Deleruyelle, J. Klein, C. Versari. ***SODA: Self-organizing data augmentation in deep neural networks - Application to biomedical image segmentation tasks***, in IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2022, Singapore, 2022. [doi: 10.1109/ICASSP43922.2022.9747744](https://doi.org/10.1109/ICASSP43922.2022.9747744)  - 
 <a href="https://arxiv.org/pdf/2202.03223.pdf" style="color: rgb(22,184,78)">PDF</a>
