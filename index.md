@@ -108,7 +108,7 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ### Journal papers
 
-A. Deleruyelle, J. Klein, C. Versari. ***Self-mentoring: A new deep learning pipeline to train a self-supervised U-net for few-shot learning of bio-artificial capsule segmentation***, in Computers in Biology and Medicine, vol. 152, pp. 106454, 2022. [doi: 10.1016/j.compbiomed.2022.106454](https://doi.org/10.1016/j.compbiomed.2022.106454)  - 
+A. Deleruyelle, J. Klein, C. Versari. ***Self-mentoring: A new deep learning pipeline to train a self-supervised U-net for few-shot learning of bio-artificial capsule segmentation***, in Computers in Biology and Medicine, vol. 152, pp. 106454, 2023. [doi: 10.1016/j.compbiomed.2022.106454](https://doi.org/10.1016/j.compbiomed.2022.106454)  - 
 <a href="https://arxiv.org/pdf/2205.10840.pdf" style="color: rgb(22,184,78)">PDF</a>
 
 S. Bernard, P. Bas, J. Klein, T. Pevný, ***Backpack: a Backpropagable Adversarial Embedding Scheme***, in IEEE Transactions on Information Forensics and Security, vol. 17, pp. 3539 - 3554, 2022,
