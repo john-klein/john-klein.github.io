@@ -63,9 +63,10 @@ body {
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="john-klein-60320320"><a class="LI-simple-link" href='https://fr.linkedin.com/in/john-klein-60320320?trk=profile-badge'>John Klein</a></div>
 
-On leave at <a href="https://owkin.com" style="color: rgb(22,184,78)">***Owkin***</a> !!
 
 # [](#header-1)Short Bio
+
+Since September 2022, I am on leave at <a href="https://owkin.com" style="color: rgb(22,184,78)">***Owkin***</a> where I work as a Lead Research Scientist - Head of Frontier Research. At Owkin, I worked on deep learning for histophaology (leveraging transformer based representation learning, multiple-instane learning and federated learning). I also worked on target discovery using omics data, binarization threshold calibration for diagnostics classification models and evaluatuin of uncerainty quantification in deep learning. 
 
 Since September 2009, I am a (tenured) associate professor at the University of Lille (formerly University of Lille1 Sciences and Technologies). I belong to the faculty of sciences and technologies which is located in the "Cité Scientifique" campus of Villeneuve d'Ascq. I am a member of the department of electrical engineering and automation department but I also teach in the department of computer sciences. I am also affiliated to CRIStAL, the research center in computer sciences, automatic control and signal processing of the university.
 
@@ -174,6 +175,12 @@ J. Klein, ***Complementary Lipschitz continuity results for the distribution of 
 
 
 ### Conference papers
+
+A. Pignet, J. Klein, G. Robin, and A. Olivier, ***Robust sensitivity control in digital pathology via tile score distribution matching***, accepted at MICCAI 2025. 
+<a href="https://arxiv.org/pdf/2502.20144" style="color: rgb(22,184,78)">PDF</a> 
+
+A. Pignet, C. Regniez, and J. Klein, ***Legitimate ground-truth-free metrics for deep uncertainty classification scoring***, The 28th International Conference on Artificial Intelligence and Statistics (AISTATS), Phucket, Thailand, 2025.
+<a href="https://arxiv.org/pdf/2410.23046" style="color: rgb(22,184,78)">PDF</a>
 
 E. Levecqye, J. Klein, P. Bas, J. Butora, ***Toward Reliable JPEG Steganalysis (at QF100)***, in IEEE International Workshop on Information Forensics and Security (WIFS), Shanghai, China, 2022. 
 <a href="https://hal.archives-ouvertes.fr/hal-03808390/document" style="color: rgb(22,184,78)">PDF</a> 
