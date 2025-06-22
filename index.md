@@ -20,7 +20,7 @@ body {
     float: left;
     width: 50%;
     padding: 10px;
-    height: 400px; /* Should be removed. Only for demonstration */
+    height: 500px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -46,13 +46,14 @@ body {
   </div>
   <div class="column" style="background-color:#bbb;">
     <h3>Email</h3>
-    <p>john DOT klein AT univ-lille.fr</p>
+    <p>john DOT klein AT univ-lille.fr / AT owkin.com</p>
     <h3>Address</h3>
     <p> Université de Lille, 
     Bureau 205, P2 Building, avenue Carl Gauss
 59655 Villeneuve d'Acsq, France.</p>
+    <p>Owkin Inc., 110 E 25th street, New York, United States.</p>
     <h3>Position</h3>
-    <p>Senior Research Scientist, (Associate Prof. on leave) </p>
+    <p>Lead Research Scientist, (Associate Prof. on leave) </p>
   </div>
 </div>
 
@@ -93,10 +94,10 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 ## [](#header-2)Interests
 
-    I am a Data science and Artificial Intelligence researcher with the following main interests:
+I am a Data science and Artificial Intelligence researcher with the following main interests:
 
 
-  * __Uncertainty Quantification \& Multimodal Fusion__: 
+  * __Uncertainty Quantification & Multimodal Fusion__: 
   I have a strong interest in the __information fusion__ paradigm and more generally in artificial reasoning under uncertainty frameworks allowing to perform fusion. Among these formalisms, I developed several contributions leveraging evidential mechanisms / epistemic random sets. Evidential approaches rely on functions that are spanned by probabilistic mechanisms when events can be assigned three epistemic states (true, false or unknown) and can be interpreted as (or related to) random set distributions. Thanks to the increased versatility of random sets (compared to point-value random variables), evidential approaches offer a better fit for many situations or data in which several forms of uncertainty are involved. 
   Click here to [learn more on evidential methods](bf). 
 
