@@ -66,7 +66,7 @@ body {
 
 # [](#header-1)Short Bio
 
-Since September 2022, I am on leave at <a href="https://owkin.com" style="color: rgb(22,184,78)">***Owkin***</a> where I work as a Lead Research Scientist - Head of Frontier Research. At Owkin, I worked on deep learning for histophaology (leveraging transformer based representation learning, multiple-instane learning and federated learning). I also worked on target discovery using omics data, binarization threshold calibration for diagnostics classification models and evaluatuin of uncerainty quantification in deep learning. 
+Since September 2022, I am on leave at <a href="https://owkin.com" style="color: rgb(22,184,78)">***Owkin***</a> where I work as a Lead Research Scientist - Head of Frontier Research. At Owkin, I worked on deep learning for histopathology (leveraging transformer based representation learning, multiple-instance learning and federated learning). I also worked on target discovery using omics data, binarization threshold calibration for diagnostics classification models and evaluation of uncertainty quantification in deep learning. 
 
 Since September 2009, I am a (tenured) associate professor at the University of Lille (formerly University of Lille1 Sciences and Technologies). I belong to the faculty of sciences and technologies which is located in the "Cité Scientifique" campus of Villeneuve d'Ascq. I am a member of the department of electrical engineering and automation department but I also teach in the department of computer sciences. I am also affiliated to CRIStAL, the research center in computer sciences, automatic control and signal processing of the university.
 
@@ -91,16 +91,19 @@ Detailed position description: <a href="https://john-klein.github.io/assets/file
 
 [comment]: <> (Here is a short description of my research activities (topics and publications)
 
-## [](#header-2)Topic: Data sciences and Artificial Intelligence
+## [](#header-2)Interests
+
+    I am a Data science and Artificial Intelligence researcher with the following main interests:
 
 
-  * __AI__ - Reasoning : 
-  I have a strong interest in the __information fusion__ paradigm and more generally in artificial reasoning under uncertainty frameworks allowing to perform fusion. Among these formalisms, I developed several contributions in the field of __belief functions__. These functions are spanned by probabilistic mechanisms when events can be assigned three epistemic states (true, false or unknown). Thanks to this generalization, belief functions are a model that better fits many situations or data in which several forms of uncertainty are involved. 
-  Click here to [learn more on belief functions](bf). 
+  * __Uncertainty Quantification \& Multimodal Fusion__: 
+  I have a strong interest in the __information fusion__ paradigm and more generally in artificial reasoning under uncertainty frameworks allowing to perform fusion. Among these formalisms, I developed several contributions leveraging evidential mechanisms / epistemic random sets. Evidential approaches rely on functions that are spanned by probabilistic mechanisms when events can be assigned three epistemic states (true, false or unknown) and can be interpreted as (or related to) random set distributions. Thanks to the increased versatility of random sets (compared to point-value random variables), evidential approaches offer a better fit for many situations or data in which several forms of uncertainty are involved. 
+  Click here to [learn more on evidential methods](bf). 
 
-  * __AI__ - Learning : 
+  * __Machine Learning__: 
   I also have interests in machine learning and especially in __ensembling__ and aggregation methods which share some ideas with information fusion. 
   More recently, I have also been working on __deep learning__ applied to __image processing__ tasks such as segmentation, style transfer or secure secret message embedding (steganography). 
+  Recently, I also gained a lot interest in __safe ML__ by trying to leverage uncertainty quantification for deep learning so as to offer the end-user actionable ways to weigh the risk pertaining to each prediction issued by a neural network.
   Finally, I am also interested in state-space models such as particle filtering / sequential Monte Carlo.
   
 
@@ -242,6 +245,9 @@ Belief Functions: Theory and Applications: Fourth International Conference, BELI
  [doi:10.1109/ITSC.2007.4357765](http://ieeexplore.ieee.org/document/4357765/) - 
 <a href="https://john-klein.github.io/assets/files/conf_papers/conf1.pdf" style="color: rgb(22,184,78)">PDF</a>
 
+### [](#header-3)Submissions
+J.-M. Coindre, F. Le Loarer , T. Marchand , A. Camara, J. Klein, R. Perret, C. Ngo, C. Maussion, V. Rousseau, T. Bonnotte, A. Baltrès , L. Vanhersecke , S. Korbi , Y. Mansour , J. Fernandez, A. Michot, P. Meeus, G. Vaz, M. Faron, M. Jean-Denis, A. Le Cesne, A. Italiano, A. Meurgey, J.-Y. Blay, M. Karanian,  ***Development of a federated learning model for the histological diagnosis of well-differentiated adipocytic tumors built  from whole slide images of 2211 cases***, 2025.
+
 ### [](#header-3)Abstracts
 
 K. Brou Boni, L. Vanquin, A. Wagner, D. Pasquier, J. Klein and N. Reynaert, ***High-Resolution Synthetic-CT Generation with Conditional Generative Adversarial Networks***, in Magnetic Resonance in Radio-Therapy, MRinRT 2019,Toronto, Canada, July 2019.
@@ -258,6 +264,19 @@ K. Brou Boni, L. Vanquin, A. Wagner, D. Pasquier, J. Klein and N. Reynaert, ***H
 ### [](#header-3)Technical Reports
  J. Klein, ***Machine learning perspectives for smart buildings: an overview***, technical report for the INCASE project, October 2017, Université de Lille1 Sciences et Technologies. - 
 <a href="https://john-klein.github.io/assets/files/smart_buildings.pdf" style="color: rgb(22,184,78)">PDF</a>
+
+
+## [](#header-2)PhD student supervisor
+I was the PhD co-advisor/director of the following students:
+* Mehena Loudahi (*Matrix distances in evidence theory*)
+* Cyrille Feudjio Kougoum (*Segmentation of mammographic images for computer aided diagnosis*)
+* Mahmoud Albardan (*Classifier dependence aware ensembling in a decentralized learning context*)
+* Solène Bernard (*Digital images steganography using adversarial embedding*)
+* Kévin Brou Boni (*Deep learning in MR-guided radiotherapy*)
+* Arnaud Deleruyelle (*Few shot deep learning strategies for cellular microscopy image segmentation*)
+* Rui Min (*Improved block partitioning strategies for high dimensional particle filtering*)
+* Etienne Levecque [co-supervised Etienne during his 1st year] (*Compatibility Attack: a Reliable Steganalysis and Forensics Tool for JPEG Images*)
+
 
 * * *
 
